@@ -1,8 +1,8 @@
 <h1 align="center">Codewars</h1>
 
-<h6 align="center">
+<p align="center">
   Solutions for Codewars katas<br/>
-</h6>
+</p>
 
 <p align="center">
   <a href="https://www.codewars.com/users/juan-antonio-ledesma/">
