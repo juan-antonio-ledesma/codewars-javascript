@@ -1,6 +1,6 @@
-# Codewars
+[![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/large)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
-![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/large)
+# Codewars
 
 ## 6 kyu
 
