@@ -2,6 +2,10 @@
 
 # Codewars
 
+## 5 kyu
+
+- **[Weight for weight](./weight-for-weight/README.md)**
+
 ## 6 kyu
 
 - **[Who likes it?](./who-likes-it/README.md)**
