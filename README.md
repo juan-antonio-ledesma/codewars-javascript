@@ -1,14 +1,8 @@
-<h1 align="center">Codewars</h1>
+# Codewars
 
-<p align="center">
-  Solutions for Codewars katas<br/>
-</p>
+Solutions for Codewars katas
 
-<p align="center">
-  <a href="https://www.codewars.com/users/juan-antonio-ledesma/">
-    <img src="https://www.codewars.com/users/juan-antonio-ledesma/badges/small">
-  </a>
-</p>
+[![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/small)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
 ## 5 kyu
 
