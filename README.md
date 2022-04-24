@@ -4,10 +4,10 @@ Solutions for Codewars katas
 
 [![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/small)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
-## 5 kyu
+### 5 kyu
 
 - **[Weight for weight](./weight-for-weight/README.md)**
 
-## 6 kyu
+### 6 kyu
 
 - **[Who likes it?](./who-likes-it/README.md)**
