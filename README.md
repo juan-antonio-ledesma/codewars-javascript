@@ -11,3 +11,4 @@ Solutions for Codewars katas
 ### 6 kyu
 
 - **[Who likes it?](./who-likes-it/README.md)**
+- **[Bit Counting](./bit-counting/README.md)**
