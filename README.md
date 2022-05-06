@@ -7,6 +7,7 @@ Solutions for Codewars katas
 ### 5 kyu
 
 - **[Weight for weight](./weight-for-weight/README.md)**
+- **[Value of x](./value-of-x/README.md)**
 
 ### 6 kyu
 
