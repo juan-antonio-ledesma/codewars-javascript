@@ -15,3 +15,4 @@ Solutions for Codewars katas
 - **[Bit Counting](./bit-counting/README.md)**
 - **[Multiples of 3 or 5](./multiples-of-3-or-5/README.md)**
 - **[Mexican Wave](./mexican-wave/README.md)**
+- **[Find The Parity Outlier](./find-the-parity-outlier/README.md)**
