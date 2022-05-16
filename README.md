@@ -16,3 +16,7 @@ Solutions for Codewars katas
 - **[Multiples of 3 or 5](./multiples-of-3-or-5/README.md)**
 - **[Mexican Wave](./mexican-wave/README.md)**
 - **[Find The Parity Outlier](./find-the-parity-outlier/README.md)**
+
+### 7 kyu
+
+- **[Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers/README.md)**
