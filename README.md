@@ -17,6 +17,7 @@ Solutions for Codewars katas
 - **[Mexican Wave](./mexican-wave/README.md)**
 - **[Find The Parity Outlier](./find-the-parity-outlier/README.md)**
 - **[Find the unique number](./find-the-unique-number/README.md)**
+- **[Write Number in Expanded Form](./write-number-in-expanded-form/README.md)**
 
 ### 7 kyu
 
