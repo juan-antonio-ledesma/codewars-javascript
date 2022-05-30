@@ -18,6 +18,7 @@ Solutions for Codewars katas
 - **[Find The Parity Outlier](./find-the-parity-outlier/README.md)**
 - **[Find the unique number](./find-the-unique-number/README.md)**
 - **[Write Number in Expanded Form](./write-number-in-expanded-form/README.md)**
+- **[The Deaf Rats of Hamelin](./the-deaf-rats-of-hamelin/README.md)**
 
 ### 7 kyu
 
