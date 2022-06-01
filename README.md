@@ -23,3 +23,4 @@ Solutions for Codewars katas
 ### 7 kyu
 
 - **[Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers/README.md)**
+- **[Every possible sum of two digits](./every-possible-sum-of-two-digits/README.md)**
