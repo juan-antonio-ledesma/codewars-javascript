@@ -20,6 +20,7 @@ Solutions for Codewars katas
 - **[Write Number in Expanded Form](./write-number-in-expanded-form/README.md)**
 - **[The Deaf Rats of Hamelin](./the-deaf-rats-of-hamelin/README.md)**
 - **[Matrix Addition](./matrix-addition/README.md)**
+- **[Good vs Evil](./good-vs-evil/README.md)**
 
 ### 7 kyu
 
