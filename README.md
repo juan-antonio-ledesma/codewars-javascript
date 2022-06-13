@@ -21,6 +21,7 @@ Solutions for Codewars katas
 - **[The Deaf Rats of Hamelin](./the-deaf-rats-of-hamelin/README.md)**
 - **[Matrix Addition](./matrix-addition/README.md)**
 - **[Good vs Evil](./good-vs-evil/README.md)**
+- **[Persistent Bugger](./persistent-bugger/README.md)**
 
 ### 7 kyu
 
