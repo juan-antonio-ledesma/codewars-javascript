@@ -1,10 +1,10 @@
 const digits = num => {
-  let digits = num
+  const digits = num
     .toString()
     .split('')
     .map(character => Number(character))
-  let digitsLength = digits.length
-  let result = []
+  const digitsLength = digits.length
+  const result = []
 
   for (let i = 0; i < digitsLength; i++) {
     const currentNumber = digits[0]
