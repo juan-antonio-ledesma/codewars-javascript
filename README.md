@@ -22,6 +22,7 @@ Solutions for Codewars katas
 - **[Matrix Addition](./matrix-addition/README.md)**
 - **[Good vs Evil](./good-vs-evil/README.md)**
 - **[Persistent Bugger](./persistent-bugger/README.md)**
+- **[Array.diff](./array-diff/README.md)**
 
 ### 7 kyu
 
