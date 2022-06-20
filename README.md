@@ -23,6 +23,7 @@ Solutions for Codewars katas
 - **[Good vs Evil](./good-vs-evil/README.md)**
 - **[Persistent Bugger](./persistent-bugger/README.md)**
 - **[Array.diff](./array-diff/README.md)**
+- **[Sum of Digits / Digital Root](./sum-of-digits-digital-root/README.md)**
 
 ### 7 kyu
 
