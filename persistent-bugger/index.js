@@ -2,7 +2,8 @@ const getMultiplication = number => {
   return String(number)
     .split('')
     .reduce(
-      (multipliedNumber, currentNumber) => multipliedNumber * currentNumber,
+      (multipliedNumber, currentNumber) =>
+        multipliedNumber * Number(currentNumber),
     )
 }
 
