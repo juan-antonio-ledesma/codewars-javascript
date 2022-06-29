@@ -24,6 +24,7 @@ Solutions for Codewars katas
 - **[Persistent Bugger](./persistent-bugger/README.md)**
 - **[Array.diff](./array-diff/README.md)**
 - **[Sum of Digits / Digital Root](./sum-of-digits-digital-root/README.md)**
+- **[Unique In Order](./unique-in-order/README.md)**
 
 ### 7 kyu
 
