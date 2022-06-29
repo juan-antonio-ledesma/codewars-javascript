@@ -8,6 +8,7 @@ Solutions for Codewars katas
 
 - **[Weight for weight](./weight-for-weight/README.md)**
 - **[Value of x](./value-of-x/README.md)**
+- **[RGB To Hex Conversion](./rgb-to-hex-conversion/README.md)**
 
 ### 6 kyu
 
