@@ -26,6 +26,7 @@ Solutions for Codewars katas
 - **[Array.diff](./array-diff/README.md)**
 - **[Sum of Digits / Digital Root](./sum-of-digits-digital-root/README.md)**
 - **[Unique In Order](./unique-in-order/README.md)**
+- **[Take a Ten Minutes Walk](./take-a-ten-minutes-walk/README.md)**
 
 ### 7 kyu
 
