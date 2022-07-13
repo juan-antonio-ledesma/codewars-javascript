@@ -27,6 +27,7 @@ Solutions for Codewars katas
 - **[Sum of Digits / Digital Root](./sum-of-digits-digital-root/README.md)**
 - **[Unique In Order](./unique-in-order/README.md)**
 - **[Take a Ten Minutes Walk](./take-a-ten-minutes-walk/README.md)**
+- **[Detect Pangram](./detect-pangram/README.md)**
 
 ### 7 kyu
 
