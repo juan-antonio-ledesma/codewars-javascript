@@ -33,3 +33,4 @@ Solutions for Codewars katas
 
 - **[Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers/README.md)**
 - **[Every possible sum of two digits](./every-possible-sum-of-two-digits/README.md)**
+- **[Vowel Count](./vowel-count/README.md)**
