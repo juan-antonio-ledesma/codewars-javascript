@@ -4,4 +4,8 @@
 
 ### :point_right: [My solution](./index.js)
 
+```
+const lovefunc = (flower1, flower2) => (flower1 + flower2) % 2 !== 0
+```
+
 ### :arrow_left: [Back](../README.md)
