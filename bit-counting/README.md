@@ -1,7 +1,13 @@
-# Bit Counting - 6 kyu
+# [Bit Counting - 6 kyu](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+```javascript
+const getBinary = num => {
+  return num.toString(2)
+}
 
-### :point_right: [My solution](./index.js)
+const countBits = num => {
+  const binaryNumber = getBinary(num)
 
-### :arrow_left: [Back](../README.md)
+  return binaryNumber.split('').reduce((acc, cur) => acc + Number(cur), 0)
+}
+```
