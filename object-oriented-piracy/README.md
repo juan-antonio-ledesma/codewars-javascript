@@ -1,9 +1,28 @@
-# Object Oriented Piracy - 8 kyu
+# [Object Oriented Piracy - 8 kyu](https://www.codewars.com/kata/54fe05c4762e2e3047000add)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/54fe05c4762e2e3047000add)
+```javascript
+function Ship(draft, crew) {
+  const CREW_MEMBER_WEIGHT = 1.5
+  const MINIMUM_BOOTY = 20
 
-### :point_right: [Solution #1](./solution-1.js)
+  this.draft = draft
+  this.crew = crew
+  this.crewWeight = this.crew * CREW_MEMBER_WEIGHT
 
-### :point_right: [Solution #2](./solution-2.js)
+  this.isWorthIt = () => this.draft - this.crewWeight > MINIMUM_BOOTY
+}
+```
 
-### :arrow_left: [Back](../README.md)
+```javascript
+function Ship(draft, crew) {
+  this.draft = draft
+  this.crew = crew
+}
+
+Ship.prototype.isWorthIt = function () {
+  const CREW_MEMBER_WEIGHT = 1.5
+  const MINIMUM_BOOTY = 20
+
+  return this.draft - this.crew * CREW_MEMBER_WEIGHT > MINIMUM_BOOTY
+}
+```
