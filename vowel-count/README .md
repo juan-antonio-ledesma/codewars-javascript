@@ -1,7 +1,7 @@
-# Vowel Count - 7 kyu
+# [Vowel Count - 7 kyu](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+```javascript
+const onlyVowelsRegex = new RegExp(/[^aeiou]+/, 'gi')
 
-### :point_right: [My solution](./index.js)
-
-### :arrow_left: [Back](../README.md)
+const getCount = string => string.replace(onlyVowelsRegex, '').length
+```
