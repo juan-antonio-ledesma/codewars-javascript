@@ -1,7 +1,24 @@
-# Multiples of 3 or 5 - 6 kyu
+# [Multiples of 3 or 5 - 6 kyu](https://www.codewars.com/kata/514b92a657cdc65150000006)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/514b92a657cdc65150000006)
+```javascript
+const solution = number => {
+  if (number <= 0) return 0
 
-### :point_right: [My solution](./index.js)
+  const setOfMultiples = new Set()
 
-### :arrow_left: [Back](../README.md)
+  for (let i = 0; i < Math.trunc(number / 3); i++) {
+    const currentNumberMultipleOf3 = (i + 1) * 3
+    const currentNumberMultipleOf5 = (i + 1) * 5
+
+    if (currentNumberMultipleOf3 < number)
+      setOfMultiples.add(currentNumberMultipleOf3)
+    if (currentNumberMultipleOf5 < number)
+      setOfMultiples.add(currentNumberMultipleOf5)
+  }
+
+  return [...setOfMultiples].reduce(
+    (accumulator, currentValue) => accumulator + currentValue,
+    0,
+  )
+}
+```
