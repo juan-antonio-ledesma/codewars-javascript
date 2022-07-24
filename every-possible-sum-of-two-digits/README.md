@@ -1,7 +1,21 @@
-# Every possible sum of two digits - 7 kyu
+# [Every possible sum of two digits - 7 kyu](https://www.codewars.com/kata/5b4e474305f04bea11000148)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/5b4e474305f04bea11000148)
+```javascript
+const digits = num => {
+  const digits = num
+    .toString()
+    .split('')
+    .map(character => Number(character))
+  const digitsLength = digits.length
+  const result = []
 
-### :point_right: [My solution](./index.js)
+  for (let i = 0; i < digitsLength; i++) {
+    const currentNumber = digits[0]
+    digits.shift()
+    let sumArray = digits.map(number => number + currentNumber)
+    result.push(sumArray)
+  }
 
-### :arrow_left: [Back](../README.md)
+  return result.reduce((a, b) => a.concat(b))
+}
+```
