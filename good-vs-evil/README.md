@@ -2,7 +2,7 @@
 
 ### :point_right: [Kata url](https://www.codewars.com/kata/52761ee4cffbc69732000738)
 
-### :point_right: [My solution](./index.js)
+### My solution
 
 ```javascript
 const GOOD_CREATURES_FORCE = [
@@ -54,5 +54,3 @@ const goodVsEvil = (good, evil) => {
   }`
 }
 ```
-
-### :arrow_left: [Back](../README.md)
