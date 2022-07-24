@@ -4,7 +4,7 @@
 
 ### :point_right: [My solution](./index.js)
 
-```
+```javascript
 const GOOD_CREATURES_FORCE = [
   1, // Hobbits
   2, // Men

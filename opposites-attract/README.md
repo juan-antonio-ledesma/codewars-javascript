@@ -4,7 +4,7 @@
 
 ### :point_right: [My solution](./index.js)
 
-```
+```javascript
 const lovefunc = (flower1, flower2) => (flower1 + flower2) % 2 !== 0
 ```
 
