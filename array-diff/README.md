@@ -1,7 +1,11 @@
-# Array.diff - 6 kyu
+# [Array.diff - 6 kyu](https://www.codewars.com/kata/523f5d21c841566fde000009)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/523f5d21c841566fde000009)
+```javascript
+const arrayDiff = (a, b) => {
+  for (let i = 0; i < b.length; i++) {
+    a = a.filter(number => b[i] !== number)
+  }
 
-### :point_right: [My solution](./index.js)
-
-### :arrow_left: [Back](../README.md)
+  return a
+}
+```
