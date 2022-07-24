@@ -36,4 +36,6 @@ Solutions for Codewars katas
 - **[Vowel Count](./vowel-count/README.md)**
 
 ### 8 kyu
+
 - **[Object Oriented Piracy](./object-oriented-piracy/README.md)**
+- **[Opposites Attract](./opposites-attract/README.md)**
