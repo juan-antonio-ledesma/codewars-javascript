@@ -1,7 +1,31 @@
-# The Deaf Rats of Hamelin - 6 kyu
+# [The Deaf Rats of Hamelin - 6 kyu](https://www.codewars.com/kata/598106cb34e205e074000031)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/598106cb34e205e074000031)
+```javascript
+const piedPiper = 'P'
+const ratGoingLeft = 'O~'
+const ratGoingRight = '~O'
 
-### :point_right: [My solution](./index.js)
+const removeBlankSpaces = string => string.replace(/\s/g, '')
 
-### :arrow_left: [Back](../README.md)
+const addASpaceEveryTwoCharacters = string => {
+  if (string === '') return ''
+  return string.match(/.{1,2}/g).join(' ')
+}
+
+const getDeafRats = (rats, rat) => {
+  const regularExpresion = new RegExp(rat, 'g')
+  return (rats.match(regularExpresion) || []).length
+}
+
+const countDeafRats = town => {
+  const rats = removeBlankSpaces(town).split(piedPiper)
+
+  const ratsLeft = addASpaceEveryTwoCharacters(rats[0])
+  const ratsRight = addASpaceEveryTwoCharacters(rats[1])
+
+  const deafRatsLeft = getDeafRats(ratsLeft, ratGoingLeft)
+  const deafRatsRight = getDeafRats(ratsRight, ratGoingRight)
+
+  return deafRatsLeft + deafRatsRight
+}
+```
