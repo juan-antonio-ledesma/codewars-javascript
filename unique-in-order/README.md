@@ -1,7 +1,16 @@
-# Unique In Order - 6 kyu
+# [Unique In Order - 6 kyu](https://www.codewars.com/kata/54e6533c92449cc251001667)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/54e6533c92449cc251001667)
+```javascript
+const uniqueInOrder = iterable => {
+  const result = []
 
-### :point_right: [My solution](./index.js)
+  for (let i = 0; i < iterable.length; i++) {
+    const currentCharacter = iterable[i]
+    const previousCharacter = iterable[i - 1]
 
-### :arrow_left: [Back](../README.md)
+    if (currentCharacter !== previousCharacter) result.push(currentCharacter)
+  }
+
+  return result
+}
+```
