@@ -1,7 +1,24 @@
-# RGB To Hex Conversion - 5 kyu
+# [RGB To Hex Conversion - 5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/513e08acc600c94f01000001)
+```javascript
+const normalizeValue = num => {
+  return num < 0 ? 0 : num > 255 ? 255 : num
+}
 
-### :point_right: [My solution](./index.js)
+const getHexPartialValue = num => {
+  const hexPartialValue = num.toString(16).toUpperCase()
+  return hexPartialValue.length === 1 ? `0${hexPartialValue}` : hexPartialValue
+}
 
-### :arrow_left: [Back](../README.md)
+const rgb = (r, g, b) => {
+  const rgbArray = [r, g, b]
+  let hexValue = ''
+
+  for (let i = 0; i < rgbArray.length; i++) {
+    const currentValue = normalizeValue(rgbArray[i])
+    hexValue += getHexPartialValue(currentValue)
+  }
+
+  return hexValue
+}
+```
