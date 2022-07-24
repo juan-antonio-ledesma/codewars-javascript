@@ -1,6 +1,8 @@
 # Good vs Evil - 6 kyu
 
-- [Kata url](https://www.codewars.com/kata/52761ee4cffbc69732000738)
+### :link: [Kata url](https://www.codewars.com/kata/52761ee4cffbc69732000738)
+
+### :pencil2: My solution
 
 ```javascript
 const GOOD_CREATURES_FORCE = [
