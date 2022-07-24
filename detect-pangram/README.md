@@ -1,7 +1,24 @@
-# Detect Pangram - 6 kyu
+# [Detect Pangram - 6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+```javascript
+const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
 
-### :point_right: [My solution](./index.js)
+const onlyLettersRegex = new RegExp(/[^a-z]+/, 'gi')
 
-### :arrow_left: [Back](../README.md)
+const getUniqueLetters = array => {
+  return array.filter(
+    (letter, position, self) => self.indexOf(letter) === position,
+  )
+}
+
+const isPangram = string => {
+  const arrayWithLowerCaseLetters = string
+    .toLowerCase()
+    .replace(onlyLettersRegex, '')
+    .split('')
+
+  return (
+    getUniqueLetters(arrayWithLowerCaseLetters).sort().join('') === ALPHABET
+  )
+}
+```
