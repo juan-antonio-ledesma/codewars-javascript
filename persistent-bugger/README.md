@@ -1,7 +1,23 @@
-# Persistent Bugger - 6 kyu
+# [Persistent Bugger - 6 kyu](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 
-### :point_right: [Kata url](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+```javascript
+const getMultiplication = number => {
+  return String(number)
+    .split('')
+    .reduce(
+      (multipliedNumber, currentNumber) =>
+        multipliedNumber * Number(currentNumber),
+    )
+}
 
-### :point_right: [My solution](./index.js)
+const persistence = number => {
+  let counter = 0
 
-### :arrow_left: [Back](../README.md)
+  while (String(number).length > 1) {
+    number = getMultiplication(number)
+    counter++
+  }
+
+  return counter
+}
+```
