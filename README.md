@@ -28,6 +28,7 @@ Solutions for Codewars katas
 - **[Unique In Order](./unique-in-order/)**
 - **[Take a Ten Minutes Walk](./take-a-ten-minutes-walk/)**
 - **[Detect Pangram](./detect-pangram/)**
+- **[Convert string to camel case](./convert-string-to-camel-case/)**
 
 ### 7 kyu
 
