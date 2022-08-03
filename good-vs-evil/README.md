@@ -20,33 +20,22 @@ const EVIL_CREATURES_FORCE = [
   10, // Wizards
 ]
 
-const BATTLE_RESULT = 'Battle Result:'
-const GOOD_WIN_RESULT = 'Good triumphs over Evil'
-const EVIL_WIN_RESULT = 'Evil eradicates all trace of Good'
-const DRAW_RESULT = 'No victor on this battle field'
-
-const getForce = (forceSide, string) => {
-  return string
-    .split(' ')
-    .reduce(
-      (totalForce, currentForce, index) =>
-        forceSide === 'good'
-          ? totalForce + GOOD_CREATURES_FORCE[index] * Number(currentForce)
-          : totalForce + EVIL_CREATURES_FORCE[index] * Number(currentForce),
-      0,
-    )
+const getForce = (forceSide, raceCounting) => {
+  return raceCounting.split(' ').reduce((totalForce, currentForce, index) => {
+    return totalForce + forceSide[index] * Number(currentForce)
+  }, 0)
 }
 
 const goodVsEvil = (good, evil) => {
-  const goodForce = getForce('good', good)
-  const evilForce = getForce('evil', evil)
+  const goodForce = getForce(GOOD_CREATURES_FORCE, good)
+  const evilForce = getForce(EVIL_CREATURES_FORCE, evil)
 
-  return `${BATTLE_RESULT} ${
+  return `Battle Result: ${
     goodForce > evilForce
-      ? GOOD_WIN_RESULT
+      ? 'Good triumphs over Evil'
       : evilForce > goodForce
-      ? EVIL_WIN_RESULT
-      : DRAW_RESULT
+      ? 'Evil eradicates all trace of Good'
+      : 'No victor on this battle field'
   }`
 }
 ```
