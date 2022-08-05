@@ -35,6 +35,7 @@ Solutions for Codewars katas
 - **[Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers/)**
 - **[Every possible sum of two digits](./every-possible-sum-of-two-digits/)**
 - **[Vowel Count](./vowel-count/)**
+- **[Get the Middle Character](./get-the-middle-character/)**
 
 ### 8 kyu
 
