@@ -9,6 +9,7 @@ Solutions for Codewars katas
 - **[Weight for weight](./weight-for-weight/)**
 - **[Value of x](./value-of-x/)**
 - **[RGB To Hex Conversion](./rgb-to-hex-conversion/)**
+- **[Where my anagrams at?](./where-my-anagrams-at/)**
 
 ### 6 kyu
 
