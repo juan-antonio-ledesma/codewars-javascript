@@ -30,6 +30,7 @@ Solutions for Codewars katas
 - **[Take a Ten Minutes Walk](./take-a-ten-minutes-walk/)**
 - **[Detect Pangram](./detect-pangram/)**
 - **[Convert string to camel case](./convert-string-to-camel-case/)**
+- **[Which are in?](./which-are-in/)**
 
 ### 7 kyu
 
