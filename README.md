@@ -10,6 +10,7 @@ Solutions for Codewars katas
 - **[Value of x](./value-of-x/)**
 - **[RGB To Hex Conversion](./rgb-to-hex-conversion/)**
 - **[Where my anagrams at?](./where-my-anagrams-at/)**
+- **[Mean Square Error](./mean-square-error/)**
 
 ### 6 kyu
 
