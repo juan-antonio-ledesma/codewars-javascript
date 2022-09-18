@@ -1,27 +1,28 @@
 # [Take a Ten Minutes Walk - 6 kyu](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 
 ```javascript
+const WALK_LENGTH = 10
+
 const isValidWalk = walk => {
-  const northDirectionBlocksTraveled = walk.filter(
-    direction => direction === 'n',
-  ).length
+  if (walk.length !== WALK_LENGTH) return false
 
-  const southDirectionBlocksTraveled = walk.filter(
-    direction => direction === 's',
-  ).length
+  const stepCounter = {
+    north: 0,
+    south: 0,
+    east: 0,
+    west: 0,
+  }
 
-  const eastDirectionBlocksTraveled = walk.filter(
-    direction => direction === 'e',
-  ).length
-
-  const westDirectionBlocksTraveled = walk.filter(
-    direction => direction === 'w',
-  ).length
+  walk.forEach(direction => {
+    if (direction === 'n') stepCounter.north++
+    if (direction === 's') stepCounter.south++
+    if (direction === 'w') stepCounter.east++
+    if (direction === 'e') stepCounter.west++
+  })
 
   return (
-    walk.length === 10 &&
-    northDirectionBlocksTraveled === southDirectionBlocksTraveled &&
-    eastDirectionBlocksTraveled === westDirectionBlocksTraveled
+    stepCounter.north === stepCounter.south &&
+    stepCounter.east === stepCounter.west
   )
 }
 ```
