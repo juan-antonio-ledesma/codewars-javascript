@@ -32,6 +32,7 @@ Solutions for Codewars katas
 - **[Detect Pangram](./detect-pangram/)**
 - **[Convert string to camel case](./convert-string-to-camel-case/)**
 - **[Which are in?](./which-are-in/)**
+- **[Find the missing letter](./find-the-missing-letter/)**
 
 ### 7 kyu
 
