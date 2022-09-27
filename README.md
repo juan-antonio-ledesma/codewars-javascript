@@ -2,7 +2,7 @@
 
 Solutions for Codewars katas
 
-[![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/small)](https://www.codewars.com/users/juan-antonio-ledesma/)
+[![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/large)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
 ### 5 kyu
 
@@ -33,6 +33,7 @@ Solutions for Codewars katas
 - **[Convert string to camel case](./convert-string-to-camel-case/)**
 - **[Which are in?](./which-are-in/)**
 - **[Find the missing letter](./find-the-missing-letter/)**
+- **[Decode the Morse code](./decode-the-morse-code/)**
 
 ### 7 kyu
 
