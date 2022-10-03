@@ -34,6 +34,7 @@ Solutions for Codewars katas
 - **[Which are in?](./which-are-in/)**
 - **[Find the missing letter](./find-the-missing-letter/)**
 - **[Decode the Morse code](./decode-the-morse-code/)**
+- **[Multiplication table](./multiplication-table/)**
 
 ### 7 kyu
 
