@@ -2,8 +2,8 @@
 
 ```javascript
 const inArray = (array1, array2) => {
-  const array2JoinedByHyphen = array2.join('-')
+  const array2JoinedBySpace = array2.join(' ')
 
-  return array1.filter(word => array2JoinedByHyphen.includes(word)).sort()
+  return array1.filter(word => array2JoinedBySpace.includes(word)).sort()
 }
 ```
