@@ -11,6 +11,7 @@ Solutions for Codewars katas
 - **[RGB To Hex Conversion](./rgb-to-hex-conversion/)**
 - **[Where my anagrams at?](./where-my-anagrams-at/)**
 - **[Mean Square Error](./mean-square-error/)**
+- **[Don't Drink the Water](./dont-drink-the-water/)**
 
 ### 6 kyu
 
