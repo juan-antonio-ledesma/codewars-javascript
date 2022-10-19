@@ -37,6 +37,7 @@ Solutions for Codewars katas
 - **[Decode the Morse code](./decode-the-morse-code/)**
 - **[Multiplication table](./multiplication-table/)**
 - **[Break camelCase](./break-camel-case/)**
+- **[Piano Kata, Part 1](./piano-kata-part-1/)**
 
 ### 7 kyu
 
