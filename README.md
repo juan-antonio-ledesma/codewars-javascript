@@ -38,6 +38,7 @@ Solutions for Codewars katas
 - **[Multiplication table](./multiplication-table/)**
 - **[Break camelCase](./break-camel-case/)**
 - **[Piano Kata, Part 1](./piano-kata-part-1/)**
+- **[Piano Kata, Part 2](./piano-kata-part-2/)**
 
 ### 7 kyu
 
