@@ -1,7 +1,9 @@
 # [Piano Kata, Part 2 - 6 kyu](https://www.codewars.com/kata/589631d24a7323d18d00016f)
 
 ```javascript
-const piano = [
+const NUMBER_PIANO_KEYS = 88
+
+const CHROMATIC_SCALE = [
   'A',
   'A#',
   'B',
@@ -14,87 +16,20 @@ const piano = [
   'F#',
   'G',
   'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-  'A',
-  'A#',
-  'B',
-  'C',
 ]
 
+const createPiano = numberOfKeys => {
+  const result = []
+  for (let i = 0; i < numberOfKeys; i++) {
+    result.push(CHROMATIC_SCALE[i % CHROMATIC_SCALE.length])
+  }
+  return result
+}
+
 const whichNote = keyPressCount => {
+  const piano = createPiano(NUMBER_PIANO_KEYS)
   const keyIndex = keyPressCount - 1
 
-  return piano[keyIndex % piano.length]
+  return piano[keyIndex % NUMBER_PIANO_KEYS]
 }
 ```
