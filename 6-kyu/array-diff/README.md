@@ -1,4 +1,4 @@
-# [Array.diff - 6 kyu](https://www.codewars.com/kata/523f5d21c841566fde000009)
+# [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) · 6 kyu
 
 ```javascript
 const arrayDiff = (a, b) => {

@@ -15,12 +15,12 @@ Solutions for Codewars katas
 
 ### 6 kyu
 
-- **[Array.diff](./array-diff/)**
+- **[Array.diff](./6-kyu/array-diff/)**
 - **[Bit Counting](./bit-counting/)**
 - **[Break camelCase](./break-camel-case/)**
 - **[Convert string to camel case](./convert-string-to-camel-case/)**
 - **[Decode the Morse code](./decode-the-morse-code/)**
-- **[Detect Pangram](./detect-pangram/)**
+- **[Detect Pangram](./6-kyu/detect-pangram/)**
 - **[Find the missing letter](./find-the-missing-letter/)**
 - **[Find The Parity Outlier](./find-the-parity-outlier/)**
 - **[Find the unique number](./find-the-unique-number/)**
