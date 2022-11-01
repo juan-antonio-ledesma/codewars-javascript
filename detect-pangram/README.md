@@ -1,6 +1,4 @@
-# [Detect Pangram · `6 kyu`](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
-
-###### `STRINGS` · `DATA STRUCTURES` · `FUNDAMENTALS`
+# [Detect Pangram · 6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
 ```javascript
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
@@ -24,3 +22,5 @@ const isPangram = string => {
   )
 }
 ```
+
+<small>`STRINGS` · `DATA STRUCTURES` · `FUNDAMENTALS`</small>
