@@ -23,4 +23,4 @@ const isPangram = string => {
 }
 ```
 
-:martial_arts_uniform: **6 kyu** - `STRINGS` `DATA STRUCTURES` `FUNDAMENTALS`
+**:martial_arts_uniform: 6 kyu** | `STRINGS` · `DATA STRUCTURES` · `FUNDAMENTALS`
