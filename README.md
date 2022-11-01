@@ -4,7 +4,7 @@ Solutions for Codewars katas
 
 [![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/large)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
-### 5 kyu
+## 5 kyu
 
 - **[Don't Drink the Water](./dont-drink-the-water/)**
 - **[Mean Square Error](./mean-square-error/)**
@@ -13,7 +13,7 @@ Solutions for Codewars katas
 - **[Weight for weight](./weight-for-weight/)**
 - **[Where my anagrams at?](./where-my-anagrams-at/)**
 
-### 6 kyu
+## 6 kyu
 
 - **[Array.diff](./6-kyu/array-diff/)**
 - **[Bit Counting](./bit-counting/)**
@@ -40,14 +40,14 @@ Solutions for Codewars katas
 - **[Who likes it?](./who-likes-it/)**
 - **[Write Number in Expanded Form](./write-number-in-expanded-form/)**
 
-### 7 kyu
+## 7 kyu
 
 - **[Every possible sum of two digits](./every-possible-sum-of-two-digits/)**
 - **[Get the Middle Character](./get-the-middle-character/)**
 - **[Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers/)**
 - **[Vowel Count](./vowel-count/)**
 
-### 8 kyu
+## 8 kyu
 
 - **[Object Oriented Piracy](./object-oriented-piracy/)**
 - **[Opposites Attract](./opposites-attract/)**
