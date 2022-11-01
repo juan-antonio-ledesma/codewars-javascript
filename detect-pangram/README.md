@@ -1,7 +1,6 @@
-# Detect Pangram
+# [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
-- :martial_arts_uniform: 6 kyu
-- [:link: Codewars kata link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+:martial_arts_uniform: 6 kyu
 
 ```javascript
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
