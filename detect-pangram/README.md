@@ -1,4 +1,4 @@
-# :martial_arts_uniform: [**Detect Pangram**](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+# :martial_arts_uniform: [**Detect Pangram**](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) [`6kyu`]
 
 ```javascript
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
@@ -23,4 +23,4 @@ const isPangram = string => {
 }
 ```
 
-**6 kYU** - `STRINGS` · `DATA STRUCTURES` · `FUNDAMENTALS`
+`STRINGS` · `DATA STRUCTURES` · `FUNDAMENTALS`
