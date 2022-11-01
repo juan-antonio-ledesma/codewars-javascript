@@ -1,4 +1,4 @@
-# [**Detect Pangram**](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) <sub>6 kyu</sub>
+# [**Detect Pangram**](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) · 6 kyu
 
 ```javascript
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
