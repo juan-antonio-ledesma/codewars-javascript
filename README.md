@@ -19,6 +19,7 @@ Solutions for Codewars katas
 - **[Bit Counting](./6-kyu/bit-counting/)**
 - **[Break camelCase](./6-kyu/break-camel-case/)**
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case/)**
+- **[Count the smiley faces!](./6-kyu/count-the-smiley-faces/)**
 - **[Decode the Morse code](./6-kyu/decode-the-morse-code/)**
 - **[Detect Pangram](./6-kyu/detect-pangram/)**
 - **[Find the missing letter](./6-kyu/find-the-missing-letter/)**
