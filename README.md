@@ -16,14 +16,14 @@ Solutions for Codewars katas
 ## 6 kyu
 
 - **[Array.diff](./6-kyu/array-diff/)**
-- **[Bit Counting](./bit-counting/)**
+- **[Bit Counting](./6-kyu/bit-counting/)**
 - **[Break camelCase](./6-kyu/break-camel-case/)**
-- **[Convert string to camel case](./convert-string-to-camel-case/)**
-- **[Decode the Morse code](./decode-the-morse-code/)**
+- **[Convert string to camel case](./6-kyu/convert-string-to-camel-case/)**
+- **[Decode the Morse code](./6-kyu/decode-the-morse-code/)**
 - **[Detect Pangram](./6-kyu/detect-pangram/)**
-- **[Find the missing letter](./find-the-missing-letter/)**
-- **[Find The Parity Outlier](./find-the-parity-outlier/)**
-- **[Find the unique number](./find-the-unique-number/)**
+- **[Find the missing letter](./6-kyu/find-the-missing-letter/)**
+- **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier/)**
+- **[Find the unique number](./6-kyu/find-the-unique-number/)**
 - **[Good vs Evil](./good-vs-evil/)**
 - **[Matrix Addition](./matrix-addition/)**
 - **[Mexican Wave](./mexican-wave/)**

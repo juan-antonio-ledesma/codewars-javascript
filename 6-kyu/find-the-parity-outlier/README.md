@@ -1,4 +1,4 @@
-# [Find The Parity Outlier - 6 kyu](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+# [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) · 6 kyu
 
 ```javascript
 const isEven = number => number % 2 === 0

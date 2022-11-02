@@ -1,4 +1,4 @@
-# [Find the missing letter - 6 kyu](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+# [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) · 6 kyu
 
 ```javascript
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'

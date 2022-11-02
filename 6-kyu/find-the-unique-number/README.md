@@ -1,4 +1,4 @@
-# [Find the unique number - 6 kyu](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+# [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) · 6 kyu
 
 ```javascript
 const findUniq = arr => {

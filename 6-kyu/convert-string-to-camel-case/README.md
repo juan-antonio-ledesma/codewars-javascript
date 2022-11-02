@@ -1,4 +1,4 @@
-# [Convert string to camel case - 6 kyu](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+# [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) · 6 kyu
 
 ```javascript
 const getSplitSentence = (sentence, divider) => sentence.split(divider)
