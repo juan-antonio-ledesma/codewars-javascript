@@ -17,7 +17,7 @@ Solutions for Codewars katas
 
 - **[Array.diff](./6-kyu/array-diff/)**
 - **[Bit Counting](./bit-counting/)**
-- **[Break camelCase](./break-camel-case/)**
+- **[Break camelCase](./6-kyu/break-camel-case/)**
 - **[Convert string to camel case](./convert-string-to-camel-case/)**
 - **[Decode the Morse code](./decode-the-morse-code/)**
 - **[Detect Pangram](./6-kyu/detect-pangram/)**

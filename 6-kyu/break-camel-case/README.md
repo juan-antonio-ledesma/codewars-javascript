@@ -1,4 +1,4 @@
-# [Break camelCase - 6 kyu](https://www.codewars.com/kata/5208f99aee097e6552000148)
+# [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) · 6 kyu
 
 ```javascript
 const isCapitalLetter = letter => letter === letter.toUpperCase()
