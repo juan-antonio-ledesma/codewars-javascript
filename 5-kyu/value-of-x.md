@@ -1,4 +1,4 @@
-# [Value of x - 5 kyu](https://www.codewars.com/kata/614ac445f13ead000f91b4d0)
+# [Value of x](https://www.codewars.com/kata/614ac445f13ead000f91b4d0) · 5 kyu
 
 ```javascript
 const reverseSigns = array => array.map(number => Number(number) * -1)

@@ -6,12 +6,12 @@ Solutions for Codewars katas
 
 ## 5 kyu
 
-- **[Don't Drink the Water](./dont-drink-the-water/)**
-- **[Mean Square Error](./mean-square-error/)**
-- **[RGB To Hex Conversion](./rgb-to-hex-conversion/)**
-- **[Value of x](./value-of-x/)**
-- **[Weight for weight](./weight-for-weight/)**
-- **[Where my anagrams at?](./where-my-anagrams-at/)**
+- **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
+- **[Mean Square Error](./5-kyu/mean-square-error.md)**
+- **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
+- **[Value of x](./5-kyu/value-of-x.md)**
+- **[Weight for weight](./5-kyu/weight-for-weight.md)**
+- **[Where my anagrams at?](./5-kyu/where-my-anagrams-at.md)**
 
 ## 6 kyu
 

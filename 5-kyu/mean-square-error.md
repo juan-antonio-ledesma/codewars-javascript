@@ -1,4 +1,4 @@
-# [Mean Square Error - 5 kyu](https://www.codewars.com/kata/51edd51599a189fe7f000015)
+# [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015) · 5 kyu
 
 ```javascript
 const getDifferenceBetweenTwoNumbersSquared = (num1, num2) => {

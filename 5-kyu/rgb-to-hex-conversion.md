@@ -1,4 +1,4 @@
-# [RGB To Hex Conversion - 5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001)
+# [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) · 5 kyu
 
 ```javascript
 const normalizeValue = num => {

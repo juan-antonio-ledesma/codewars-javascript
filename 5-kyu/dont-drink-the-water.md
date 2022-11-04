@@ -1,4 +1,4 @@
-# [Don't Drink the Water - 5 kyu](https://www.codewars.com/kata/54e6533c92449cc251001667)
+# [Don't Drink the Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e) · 5 kyu
 
 ```javascript
 const densityTable = {
