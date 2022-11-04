@@ -15,16 +15,16 @@ Solutions for Codewars katas
 
 ## 6 kyu
 
-- **[Array.diff](./6-kyu/array-diff/)**
-- **[Bit Counting](./6-kyu/bit-counting/)**
-- **[Break camelCase](./6-kyu/break-camel-case/)**
-- **[Convert string to camel case](./6-kyu/convert-string-to-camel-case/)**
-- **[Count the smiley faces!](./6-kyu/count-the-smiley-faces/)**
-- **[Decode the Morse code](./6-kyu/decode-the-morse-code/)**
-- **[Detect Pangram](./6-kyu/detect-pangram/)**
-- **[Find the missing letter](./6-kyu/find-the-missing-letter/)**
-- **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier/)**
-- **[Find the unique number](./6-kyu/find-the-unique-number/)**
+- **[Array.diff](./6-kyu/array-diff.md)**
+- **[Bit Counting](./6-kyu/bit-counting.md)**
+- **[Break camelCase](./6-kyu/break-camel-case.md)**
+- **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**
+- **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**
+- **[Decode the Morse code](./6-kyu/decode-the-morse-code.md)**
+- **[Detect Pangram](./6-kyu/detect-pangram.md)**
+- **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
+- **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**
+- **[Find the unique number](./6-kyu/find-the-unique-number.md)**
 - **[Good vs Evil](./good-vs-evil/)**
 - **[Matrix Addition](./matrix-addition/)**
 - **[Mexican Wave](./mexican-wave/)**
