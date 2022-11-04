@@ -50,5 +50,5 @@ Solutions for Codewars katas
 
 ## 8 kyu
 
-- **[Object Oriented Piracy](./object-oriented-piracy/)**
-- **[Opposites Attract](./opposites-attract/)**
+- **[Object Oriented Piracy](./8-kyu/object-oriented-piracy.md)**
+- **[Opposites Attract](./8-kyu/opposites-attract.md)**

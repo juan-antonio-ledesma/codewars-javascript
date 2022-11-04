@@ -1,4 +1,4 @@
-# [Object Oriented Piracy - 8 kyu](https://www.codewars.com/kata/54fe05c4762e2e3047000add)
+# [Object Oriented Piracy](https://www.codewars.com/kata/54fe05c4762e2e3047000add) · 8 kyu
 
 ```javascript
 function Ship(draft, crew) {
