@@ -1,4 +1,4 @@
-# [Multiplication table - 6 kyu](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
+# [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) · 6 kyu
 
 ```javascript
 const getArrayOfNumbers = (number, multiplier) => {

@@ -1,4 +1,4 @@
-# [Matrix Addition - 6 kyu](https://www.codewars.com/kata/526233aefd4764272800036f)
+# [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) · 6 kyu
 
 ```javascript
 const flatArray = array => array.reduce((a, b) => a.concat(b))

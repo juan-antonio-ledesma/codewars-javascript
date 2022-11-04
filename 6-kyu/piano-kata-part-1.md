@@ -1,32 +1,22 @@
-# [Piano Kata, Part 2 - 6 kyu](https://www.codewars.com/kata/589631d24a7323d18d00016f)
+# [Piano Kata, Part 1](https://www.codewars.com/kata/589273272fab865136000108) · 6 kyu
 
 ```javascript
 const NUMBER_PIANO_KEYS = 88
 
-const CHROMATIC_SCALE = [
-  'A',
-  'A#',
-  'B',
-  'C',
-  'C#',
-  'D',
-  'D#',
-  'E',
-  'F',
-  'F#',
-  'G',
-  'G#',
-]
+const W = 'white'
+const B = 'black'
+
+const PIANO_KEYS = [W, B, W, W, B, W, B, W, W, B, W, B]
 
 const createPiano = numberOfKeys => {
   const result = []
   for (let i = 0; i < numberOfKeys; i++) {
-    result.push(CHROMATIC_SCALE[i % CHROMATIC_SCALE.length])
+    result.push(PIANO_KEYS[i % PIANO_KEYS.length])
   }
   return result
 }
 
-const whichNote = keyPressCount => {
+const blackOrWhiteKey = keyPressCount => {
   const piano = createPiano(NUMBER_PIANO_KEYS)
   const keyIndex = keyPressCount - 1
 

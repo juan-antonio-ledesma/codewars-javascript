@@ -25,14 +25,14 @@ Solutions for Codewars katas
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**
 - **[Find the unique number](./6-kyu/find-the-unique-number.md)**
-- **[Good vs Evil](./good-vs-evil/)**
-- **[Matrix Addition](./matrix-addition/)**
-- **[Mexican Wave](./mexican-wave/)**
-- **[Multiples of 3 or 5](./multiples-of-3-or-5/)**
-- **[Multiplication table](./multiplication-table/)**
-- **[Persistent Bugger](./persistent-bugger/)**
-- **[Piano Kata, Part 1](./piano-kata-part-1/)**
-- **[Piano Kata, Part 2](./piano-kata-part-2/)**
+- **[Good vs Evil](./6-kyu/good-vs-evil.md)**
+- **[Matrix Addition](./6-kyu/matrix-addition.md)**
+- **[Mexican Wave](./6-kyu/mexican-wave.md)**
+- **[Multiples of 3 or 5](./6-kyu/multiples-of-3-or-5.md)**
+- **[Multiplication table](./6-kyu/multiplication-table.md)**
+- **[Persistent Bugger](./6-kyu/persistent-bugger.md)**
+- **[Piano Kata, Part 1](./6-kyu/piano-kata-part-1.md)**
+- **[Piano Kata, Part 2](./6-kyu/piano-kata-part-2.md)**
 - **[Sum of Digits / Digital Root](./sum-of-digits-digital-root/)**
 - **[Take a Ten Minutes Walk](./take-a-ten-minutes-walk/)**
 - **[The Deaf Rats of Hamelin](./the-deaf-rats-of-hamelin/)**
