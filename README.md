@@ -43,10 +43,10 @@ Solutions for Codewars katas
 
 ## 7 kyu
 
-- **[Every possible sum of two digits](./every-possible-sum-of-two-digits/)**
-- **[Get the Middle Character](./get-the-middle-character/)**
-- **[Sum of two lowest positive integers](./sum-of-two-lowest-positive-integers/)**
-- **[Vowel Count](./vowel-count/)**
+- **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**
+- **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**
+- **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**
+- **[Vowel Count](./7-kyu/vowel-count.md)**
 
 ## 8 kyu
 

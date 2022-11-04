@@ -1,4 +1,4 @@
-# [Get the Middle Character - 7 kyu](https://www.codewars.com/kata/56747fd5cb988479af000028)
+# [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) · 7 kyu
 
 ```javascript
 const getMiddle = string => {

@@ -1,4 +1,4 @@
-# [Every possible sum of two digits - 7 kyu](https://www.codewars.com/kata/5b4e474305f04bea11000148)
+# [Every possible sum of two digits](https://www.codewars.com/kata/5b4e474305f04bea11000148) · 7 kyu
 
 ```javascript
 const digits = num => {
