@@ -33,13 +33,13 @@ Solutions for Codewars katas
 - **[Persistent Bugger](./6-kyu/persistent-bugger.md)**
 - **[Piano Kata, Part 1](./6-kyu/piano-kata-part-1.md)**
 - **[Piano Kata, Part 2](./6-kyu/piano-kata-part-2.md)**
-- **[Sum of Digits / Digital Root](./sum-of-digits-digital-root/)**
-- **[Take a Ten Minutes Walk](./take-a-ten-minutes-walk/)**
-- **[The Deaf Rats of Hamelin](./the-deaf-rats-of-hamelin/)**
-- **[Unique In Order](./unique-in-order/)**
-- **[Which are in?](./which-are-in/)**
-- **[Who likes it?](./who-likes-it/)**
-- **[Write Number in Expanded Form](./write-number-in-expanded-form/)**
+- **[Sum of Digits / Digital Root](./6-kyu/sum-of-digits-digital-root.md)**
+- **[Take a Ten Minutes Walk](./6-kyu/take-a-ten-minutes-walk.md)**
+- **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**
+- **[Unique In Order](./6-kyu/unique-in-order.md)**
+- **[Which are in?](./6-kyu/which-are-in.md)**
+- **[Who likes it?](./6-kyu/who-likes-it.md)**
+- **[Write Number in Expanded Form](./6-kyu/write-number-in-expanded-form.md)**
 
 ## 7 kyu
 

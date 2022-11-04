@@ -1,4 +1,4 @@
-# [Who likes it? - 6 kyu](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+# [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) · 6 kyu
 
 ```javascript
 const likes = names => {

@@ -1,4 +1,4 @@
-# [Write Number in Expanded Form - 6 kyu](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
+# [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) · 6 kyu
 
 ```javascript
 const expandedForm = number => {

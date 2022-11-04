@@ -1,4 +1,4 @@
-# [Take a Ten Minutes Walk - 6 kyu](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+# [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) · 6 kyu
 
 ```javascript
 const WALK_LENGTH = 10
