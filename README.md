@@ -15,6 +15,7 @@ Solutions for Codewars katas
 
 ## 6 kyu
 
+- **[Are they the "same"?](./6-kyu/are-they-the-same.md)**
 - **[Array.diff](./6-kyu/array-diff.md)**
 - **[Bit Counting](./6-kyu/bit-counting.md)**
 - **[Break camelCase](./6-kyu/break-camel-case.md)**
