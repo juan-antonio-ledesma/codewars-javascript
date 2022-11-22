@@ -42,6 +42,7 @@ Solutions for Codewars katas
 - **[Which are in?](./6-kyu/which-are-in.md)**
 - **[Who likes it?](./6-kyu/who-likes-it.md)**
 - **[Write Number in Expanded Form](./6-kyu/write-number-in-expanded-form.md)**
+- **[Your order, please](./6-kyu/your-order-please.md)**
 
 ## 7 kyu
 
