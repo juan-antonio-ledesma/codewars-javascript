@@ -11,8 +11,7 @@ const sortArray = array => {
   return array.map(number => {
     if (number % 2 === 0) return number
 
-    oddPlaced++
-    return oddNumbersSorted[oddPlaced - 1]
+    return oddNumbersSorted[oddPlaced++]
   })
 }
 ```
