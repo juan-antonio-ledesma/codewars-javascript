@@ -38,6 +38,7 @@ Solutions for Codewars katas
 - **[Sum of Digits / Digital Root](./6-kyu/sum-of-digits-digital-root.md)**
 - **[Take a Ten Minutes Walk](./6-kyu/take-a-ten-minutes-walk.md)**
 - **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**
+- **[Tribonacci Sequence](./6-kyu/tribonacci-sequence.md)**
 - **[Unique In Order](./6-kyu/unique-in-order.md)**
 - **[Which are in?](./6-kyu/which-are-in.md)**
 - **[Who likes it?](./6-kyu/who-likes-it.md)**
