@@ -1,6 +1,6 @@
 # Codewars · Javascript
 
-Solutions for Codewars katas in Javascript.
+Solutions for Codewars katas written in Javascript.
 
 [![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/small)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
