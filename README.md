@@ -1,4 +1,4 @@
-# Codewars
+# Codewars · Javascript
 
 Solutions for Codewars katas in Javascript.
 
