@@ -23,6 +23,7 @@ Solutions for Codewars katas written in Javascript.
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**
 - **[Decode the Morse code](./6-kyu/decode-the-morse-code.md)**
 - **[Detect Pangram](./6-kyu/detect-pangram.md)**
+- **[Duplicate Encoder](./6-kyu/duplicate-encoder.md)**
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**
 - **[Find the unique number](./6-kyu/find-the-unique-number.md)**
