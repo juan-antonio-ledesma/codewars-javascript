@@ -22,6 +22,7 @@ Solutions for Codewars katas written in Javascript.
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**
 - **[Decode the Morse code](./6-kyu/decode-the-morse-code.md)**
+- **[Delete occurrences of an element if it occurs more than n times](./6-kyu/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.md)**
 - **[Detect Pangram](./6-kyu/detect-pangram.md)**
 - **[Duplicate Encoder](./6-kyu/duplicate-encoder.md)**
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
