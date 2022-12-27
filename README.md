@@ -8,6 +8,7 @@ Solutions for Codewars katas written in Javascript.
 
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
+- **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
 - **[Weight for weight](./5-kyu/weight-for-weight.md)**
