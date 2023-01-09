@@ -30,6 +30,7 @@ Solutions for Codewars katas written in Javascript.
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**
 - **[Find the unique number](./6-kyu/find-the-unique-number.md)**
 - **[Good vs Evil](./6-kyu/good-vs-evil.md)**
+- **[Highest Scoring Word](./6-kyu/highest-scoring-word.md)**
 - **[Is a number prime?](./6-kyu/is-a-number-prime.md)**
 - **[Matrix Addition](./6-kyu/matrix-addition.md)**
 - **[Mexican Wave](./6-kyu/mexican-wave.md)**
