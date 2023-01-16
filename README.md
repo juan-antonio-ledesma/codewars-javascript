@@ -7,6 +7,7 @@ Solutions for Codewars katas written in Javascript.
 ## 5 kyu
 
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
+- **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
