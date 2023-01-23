@@ -33,6 +33,7 @@ Solutions for Codewars katas written in Javascript.
 - **[Good vs Evil](./6-kyu/good-vs-evil.md)**
 - **[Highest Scoring Word](./6-kyu/highest-scoring-word.md)**
 - **[Is a number prime?](./6-kyu/is-a-number-prime.md)**
+- **[Make the Deadfish Swim](./6-kyu/make-the-deadfish-swim.md)**
 - **[Matrix Addition](./6-kyu/matrix-addition.md)**
 - **[Mexican Wave](./6-kyu/mexican-wave.md)**
 - **[Multiples of 3 or 5](./6-kyu/multiples-of-3-or-5.md)**
