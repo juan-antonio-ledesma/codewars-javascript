@@ -2,7 +2,7 @@
 
 I practice JavaScript katas on Codewars to enhance my programming skills. Each kata is a specific challenge that I solve and receive feedback on to compare my solution with others. Continuing to do katas helps me improve and advance in my software development career.
 
-[![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/small)](https://www.codewars.com/users/juan-antonio-ledesma/)
+[![Juan Antonio Ledesma Codewars Badge](https://www.codewars.com/users/juan-antonio-ledesma/badges/large)](https://www.codewars.com/users/juan-antonio-ledesma/)
 
 ## 5 kyu
 
