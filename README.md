@@ -1,6 +1,6 @@
 # Codewars · Javascript
 
-I practice JavaScript katas on Codewars to enhance my programming skills. Each kata is a specific challenge that I solve and receive feedback on to compare my solution with others. Continuing to do katas helps me improve and advance in my software development career.
+JavaScript katas on Codewars are programming challenges that help you improve your skills in the language. Each kata presents a specific problem for you to solve using programming techniques and algorithms. Upon completing each kata, you can compare your solution with others and receive feedback and points based on its effectiveness and efficiency. Codewars has a wide range of katas with increasing difficulty levels, from beginner to expert, so you can continuously improve your JavaScript and other language skills.
 
 ## 5 kyu
 
