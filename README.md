@@ -1,8 +1,6 @@
 # Codewars · Javascript
 
-JavaScript katas on Codewars are programming challenges that help you improve your skills in the language. Each kata presents a specific problem for you to solve using programming techniques and algorithms. Upon completing each kata, you can compare your solution with others and receive feedback and points based on its effectiveness and efficiency. Codewars has a wide range of katas with increasing difficulty levels, from beginner to expert, so you can continuously improve your JavaScript and other language skills.
-
-The Kyu ranking system on Codewars reflects a programmer's skill level in a certain programming language. The levels range from Kyu 8 (for beginners) to Kyu 1 (for experts). As a user completes katas and earns points, their Kyu increases, indicating a more advanced skill level. The Kyu scale is a way of measuring a programmer's progress and challenging themselves to improve their skills.
+JavaScript katas on Codewars are programming challenges that help you improve your skills in the language. Each kata presents a specific problem for you to solve using programming techniques and algorithms. Upon completing each kata, you can compare your solution with others and receive feedback and points based on its effectiveness and efficiency.
 
 ## 5 kyu
 
