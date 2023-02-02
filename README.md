@@ -4,6 +4,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 ## 5 kyu
 
+- **[Convert A Hex String To RGB](./5-kyu/convert-a-hex-string-to-rgb.md)**
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
 - **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
