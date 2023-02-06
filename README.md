@@ -51,6 +51,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Write Number in Expanded Form](./6-kyu/write-number-in-expanded-form.md)**
 - **[Your order, please](./6-kyu/your-order-please.md)**
 - **[Zero-plentiful Array](./6-kyu/zero-plentiful-array.md)**
+- **[Ziiiiip!](./6-kyu/ziiiiip.md)**
 
 ## 7 kyu
 
