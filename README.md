@@ -7,6 +7,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Convert A Hex String To RGB](./5-kyu/convert-a-hex-string-to-rgb.md)**
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
 - **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**
+- **[Greed is Good](./5-kyu/greed-is-good.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
