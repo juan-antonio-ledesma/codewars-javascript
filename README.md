@@ -41,6 +41,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Persistent Bugger](./6-kyu/persistent-bugger.md)**
 - **[Piano Kata, Part 1](./6-kyu/piano-kata-part-1.md)**
 - **[Piano Kata, Part 2](./6-kyu/piano-kata-part-2.md)**
+- **[Selective Array Reversing](./6-kyu/selective-array-reversing.md)**
 - **[Sort the odd](./6-kyu/sort-the-odd.md)**
 - **[Sum of Digits / Digital Root](./6-kyu/sum-of-digits-digital-root.md)**
 - **[Take a Ten Minutes Walk](./6-kyu/take-a-ten-minutes-walk.md)**
