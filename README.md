@@ -9,6 +9,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**
 - **[Greed is Good](./5-kyu/greed-is-good.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
+- **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
