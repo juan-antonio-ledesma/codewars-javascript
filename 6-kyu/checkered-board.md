@@ -1,19 +1,19 @@
 # [Checkered Board](https://www.codewars.com/kata/5650f1a6075b3284120000c0) · 6 kyu
 
 ```javascript
-const getIsEven = number => number % 2 === 0
+const isEven = number => number % 2 === 0
 
 const checkeredBoard = dimension => {
   let oddRow = []
   let evenRow = []
 
   for (let i = 0; i < dimension; i++) {
-    if (getIsEven(dimension)) {
-      oddRow.push(getIsEven(i) ? '■' : '□')
-      evenRow.push(getIsEven(i) ? '□' : '■')
+    if (isEven(dimension)) {
+      oddRow.push(isEven(i) ? '■' : '□')
+      evenRow.push(isEven(i) ? '□' : '■')
     } else {
-      oddRow.push(getIsEven(i) ? '□' : '■')
-      evenRow.push(getIsEven(i) ? '■' : '□')
+      oddRow.push(isEven(i) ? '□' : '■')
+      evenRow.push(isEven(i) ? '■' : '□')
     }
   }
 
@@ -23,7 +23,7 @@ const checkeredBoard = dimension => {
   const board = []
 
   for (let i = 0; i < dimension; i++) {
-    board.push(getIsEven(i) ? evenRow : oddRow)
+    board.push(isEven(i) ? evenRow : oddRow)
   }
 
   return board.join('\n')
