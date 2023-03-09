@@ -2,7 +2,7 @@
 
 <sup>
   <a href="https://www.codewars.com/kata/5270d0d18625160ada0000e4">
-    <strong>LINK TO kATA</strong>
+    <strong>LINK TO THE KATA</strong>
   </a> - <code>ALGORITHMS</code>
 </sup>
 
