@@ -12,6 +12,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
+- **[String incrementer](./5-kyu/string_incrementer.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
 - **[Weight for weight](./5-kyu/weight-for-weight.md)**
 - **[Where my anagrams at?](./5-kyu/where-my-anagrams-at.md)**
@@ -22,6 +23,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Array.diff](./6-kyu/array-diff.md)**
 - **[Bit Counting](./6-kyu/bit-counting.md)**
 - **[Break camelCase](./6-kyu/break-camel-case.md)**
+- **[Card game](./6-kyu/card-game.md)**
 - **[Checkered Board](./6-kyu/checkered-board.md)**
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**
