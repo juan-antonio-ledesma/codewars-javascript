@@ -68,5 +68,6 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 ## 8 kyu
 
+- **[Multiply](./8-kyu/multiply.md)**
 - **[Object Oriented Piracy](./8-kyu/object-oriented-piracy.md)**
 - **[Opposites Attract](./8-kyu/opposites-attract.md)**
