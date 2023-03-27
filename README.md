@@ -77,4 +77,5 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Object Oriented Piracy](./8-kyu/object-oriented-piracy.md)**
 - **[Opposites Attract](./8-kyu/opposites-attract.md)**
 - **[Power](./8-kyu/power.md)**
+- **[Remove First and Last Character Part Two](./8-kyu/remove-first-and-last-character-part-two.md)**
 - **[Simple Comparison?](./8-kyu/simple-comparison.md)**
