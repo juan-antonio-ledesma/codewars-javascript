@@ -52,6 +52,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**
 - **[Tribonacci Sequence](./6-kyu/tribonacci-sequence.md)**
 - **[Unique In Order](./6-kyu/unique-in-order.md)**
+- **[Valid Braces](./6-kyu/valid-braces.md)**
 - **[Which are in?](./6-kyu/which-are-in.md)**
 - **[Who likes it?](./6-kyu/who-likes-it.md)**
 - **[Write Number in Expanded Form](./6-kyu/write-number-in-expanded-form.md)**
