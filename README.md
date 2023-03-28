@@ -72,6 +72,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 ## 8 kyu
 
+- **[Chuck Norris VII - True or False? (Beginner)](./8-kyu/chuck-norris-vii-true-or-false-beginner.md)**
 - **[Compare within margin](./8-kyu/compare-within-margin.md)**
 - **[Is your period late?](./8-kyu/is-your-period-late.md)**
 - **[Multiplication table for number](./8-kyu/multiplication-table-for-number.md)**
