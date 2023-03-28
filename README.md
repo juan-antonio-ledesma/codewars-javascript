@@ -63,6 +63,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 ## 7 kyu
 
 - **[Beginner Series #3 Sum of Numbers](./7-kyu/beginner-series-3-sum-of-numbers.md)**
+- **[Complementary DNA](./7-kyu/complementary-dna.md)**
 - **[Digit\*Digit](./7-kyu/digit-digit.md)**
 - **[Disemvowel Trolls](./7-kyu/disemvowel-trolls.md)**
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**
