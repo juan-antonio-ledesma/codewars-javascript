@@ -79,6 +79,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Is your period late?](./8-kyu/is-your-period-late.md)**
 - **[Multiplication table for number](./8-kyu/multiplication-table-for-number.md)**
 - **[Multiply](./8-kyu/multiply.md)**
+- **[Not so black box](./8-kyu/not-so-black-box.md)**
 - **[Object Oriented Piracy](./8-kyu/object-oriented-piracy.md)**
 - **[Opposites Attract](./8-kyu/opposites-attract.md)**
 - **[Power](./8-kyu/power.md)**
