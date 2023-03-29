@@ -68,6 +68,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Disemvowel Trolls](./7-kyu/disemvowel-trolls.md)**
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**
+- **[L2: Triple X](./7-kyu/l2-triple-x.md)**
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**
 - **[Vowel Count](./7-kyu/vowel-count.md)**
 
