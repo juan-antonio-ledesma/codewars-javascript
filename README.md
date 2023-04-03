@@ -13,6 +13,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
 - **[String incrementer](./5-kyu/string_incrementer.md)**
+- **[Tic-Tac-Toe Checker](./5-kyu/tic-tac-toe-checker.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
 - **[Weight for weight](./5-kyu/weight-for-weight.md)**
 - **[Where my anagrams at?](./5-kyu/where-my-anagrams-at.md)**
