@@ -72,6 +72,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**
+- **[Homogenous arrays](./7-kyu/homogenous-arrays.md)**
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**
