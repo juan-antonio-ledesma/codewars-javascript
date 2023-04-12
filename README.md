@@ -79,8 +79,8 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**
-- **[The Office I - Outed](./7-kyu/the-office-I-outed.md)**
-- **[The Office II - Boredom Score](./7-kyu/the-office-II-boredom-score.md)**
+- **[The Office I - Outed](./7-kyu/the-office-i-outed.md)**
+- **[The Office II - Boredom Score](./7-kyu/the-office-ii-boredom-score.md)**
 - **[Vowel Count](./7-kyu/vowel-count.md)**
 
 ## 8 kyu
