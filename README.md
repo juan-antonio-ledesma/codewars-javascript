@@ -12,6 +12,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
+- **[Scramblies](./5-kyu/scramblies.md)**
 - **[String incrementer](./5-kyu/string_incrementer.md)**
 - **[Tic-Tac-Toe Checker](./5-kyu/tic-tac-toe-checker.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
