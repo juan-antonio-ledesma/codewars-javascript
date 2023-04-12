@@ -81,6 +81,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**
 - **[The Office I - Outed](./7-kyu/the-office-i-outed.md)**
 - **[The Office II - Boredom Score](./7-kyu/the-office-ii-boredom-score.md)**
+- **[The Office III - Broken Photocopier](./7-kyu/the-office-iii-broken-photocopier.md)**
 - **[Vowel Count](./7-kyu/vowel-count.md)**
 
 ## 8 kyu
