@@ -29,6 +29,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Checkered Board](./6-kyu/checkered-board.md)**
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**
+- **[Counting Duplicates](./6-kyu/counting-duplicates.md)**
 - **[Decode the Morse code](./6-kyu/decode-the-morse-code.md)**
 - **[Delete occurrences of an element if it occurs more than n times](./6-kyu/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.md)**
 - **[Detect Pangram](./6-kyu/detect-pangram.md)**
