@@ -87,6 +87,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[The Office II - Boredom Score](./7-kyu/the-office-ii-boredom-score.md)**
 - **[The Office III - Broken Photocopier](./7-kyu/the-office-iii-broken-photocopier.md)**
 - **[The Office IV - Find a Meeting Room](./7-kyu/the-office-iv-finda-a-meeting-room.md)**
+- **[V A P O R C O D E](./7-kyu/v-a-p-o-r-c-o-d-e.md)**
 - **[Vowel Count](./7-kyu/vowel-count.md)**
 
 ## 8 kyu
