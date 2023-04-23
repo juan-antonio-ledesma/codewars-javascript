@@ -34,6 +34,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Delete occurrences of an element if it occurs more than n times](./6-kyu/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.md)**
 - **[Detect Pangram](./6-kyu/detect-pangram.md)**
 - **[Duplicate Encoder](./6-kyu/duplicate-encoder.md)**
+- **[Emotional Sort ( ︶︿︶)](./6-kyu/emotional-sort.md)**
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**
 - **[Find the unique number](./6-kyu/find-the-unique-number.md)**
