@@ -25,6 +25,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Array.diff](./6-kyu/array-diff.md)**
 - **[Bit Counting](./6-kyu/bit-counting.md)**
 - **[Break camelCase](./6-kyu/break-camel-case.md)**
+- **[Build Tower!](./6-kyu/build-tower.md)**
 - **[Card game](./6-kyu/card-game.md)**
 - **[Checkered Board](./6-kyu/checkered-board.md)**
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**
