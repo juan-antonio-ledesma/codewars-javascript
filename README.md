@@ -37,6 +37,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Duplicate Encoder](./6-kyu/duplicate-encoder.md)**
 - **[Emotional Sort ( ︶︿︶)](./6-kyu/emotional-sort.md)**
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
+- **[Find the odd int](./6-kyu/find-the-odd-int.md)**
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**
 - **[Find the unique number](./6-kyu/find-the-unique-number.md)**
 - **[Good vs Evil](./6-kyu/good-vs-evil.md)**
