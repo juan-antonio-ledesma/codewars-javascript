@@ -34,6 +34,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Decode the Morse code](./6-kyu/decode-the-morse-code.md)**
 - **[Delete occurrences of an element if it occurs more than n times](./6-kyu/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.md)**
 - **[Detect Pangram](./6-kyu/detect-pangram.md)**
+- **[Does my number look big in this?](./6-kyu/does-my-number-look-big-in-this.md)**
 - **[Duplicate Encoder](./6-kyu/duplicate-encoder.md)**
 - **[Emotional Sort ( ︶︿︶)](./6-kyu/emotional-sort.md)**
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**
