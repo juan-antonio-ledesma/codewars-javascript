@@ -84,6 +84,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**
 - **[Homogenous arrays](./7-kyu/homogenous-arrays.md)**
+- **[Isograms](./7-kyu/isograms.md)**
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**
