@@ -56,6 +56,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Selective Array Reversing](./6-kyu/selective-array-reversing.md)**
 - **[Simple Fun #212: Processing Requests!](./6-kyu/simple-fun-212-processing-requests.md)**
 - **[Sort the odd](./6-kyu/sort-the-odd.md)**
+- **[Stop gninnipS My sdroW!](./6-kyu/stop-gninnips-my-sdrow.md)**
 - **[Sum of Digits / Digital Root](./6-kyu/sum-of-digits-digital-root.md)**
 - **[Take a Ten Minutes Walk](./6-kyu/take-a-ten-minutes-walk.md)**
 - **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**
