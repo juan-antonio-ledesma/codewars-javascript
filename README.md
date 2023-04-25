@@ -78,6 +78,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Take a Ten Minutes Walk](./6-kyu/take-a-ten-minutes-walk.md)**
 - **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**
 - **[The Office V - Find a Chair](./6-kyu/the-office-v-find-a-chair.md)**
+- **[The Supermarket Queue](./6-kyu/the-supermarket-queue.md)**
 - **[Tribonacci Sequence](./6-kyu/tribonacci-sequence.md)**
 - **[Unique In Order](./6-kyu/unique-in-order.md)**
 - **[Valid Braces](./6-kyu/valid-braces.md)**
