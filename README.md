@@ -8,6 +8,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 ## 5 kyu
 
+- **[By the Power Set of Castle Grayskull](./5-kyu/by-the-power-set-of-castle-grayskull.md)**
 - **[Convert A Hex String To RGB](./5-kyu/convert-a-hex-string-to-rgb.md)**
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
 - **[Extract the domain name from a URL](./5-kyu/extract-the-domain-name-from-a-url.md)**
