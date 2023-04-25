@@ -2,6 +2,10 @@
 
 JavaScript katas on Codewars are programming challenges that help you improve your skills in the language. Each kata presents a specific problem for you to solve using programming techniques and algorithms. Upon completing each kata, you can compare your solution with others and receive feedback and points based on its effectiveness and efficiency.
 
+## 4 kyu
+
+- **[Human readable duration format](./4-kyu/human-readable-duration-format.md)**
+
 ## 5 kyu
 
 - **[Convert A Hex String To RGB](./5-kyu/convert-a-hex-string-to-rgb.md)**
