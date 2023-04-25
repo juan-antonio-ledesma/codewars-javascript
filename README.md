@@ -19,6 +19,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
 - **[Scramblies](./5-kyu/scramblies.md)**
 - **[Simple Fun #249: Subtraction By Regrouping](./5-kyu/simple-fun-249-subtraction-by-regrouping.md)**
+- **[Simple Pig Latin](./5-kyu/simple-pig-latin.md)**
 - **[String incrementer](./5-kyu/string_incrementer.md)**
 - **[Tic-Tac-Toe Checker](./5-kyu/tic-tac-toe-checker.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
