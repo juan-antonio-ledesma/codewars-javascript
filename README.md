@@ -14,6 +14,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Greed is Good](./5-kyu/greed-is-good.md)**
 - **[Human Readable Time](./5-kyu/human-readable-time.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
+- **[Moving Zeros To The End](./5-kyu/moving-zeros-to-the-end.md)**
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
