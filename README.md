@@ -18,6 +18,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**
+- **[Rot13](./5-kyu/rot13.md)**
 - **[Scramblies](./5-kyu/scramblies.md)**
 - **[Simple Fun #249: Subtraction By Regrouping](./5-kyu/simple-fun-249-subtraction-by-regrouping.md)**
 - **[Simple Pig Latin](./5-kyu/simple-pig-latin.md)**
