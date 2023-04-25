@@ -31,6 +31,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[ASCII Fun #1: X-Shape](./6-kyu/ascii-fun-1-x-shape.md)**
 - **[ASCII Fun #2: Funny Dots](./6-kyu/ascii-fun-2-funny-dots.md)**
 - **[ASCII Fun #3: Puzzle Tiles](./6-kyu/ascii-fun-3-puzzle-tiles.md)**
+- **[ASCII Fun #4: Build a pyramid](./6-kyu/ascii-fun-4-build-a-pyramid.md)**
 - **[Bit Counting](./6-kyu/bit-counting.md)**
 - **[Break camelCase](./6-kyu/break-camel-case.md)**
 - **[Build Tower!](./6-kyu/build-tower.md)**
