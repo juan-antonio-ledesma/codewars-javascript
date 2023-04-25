@@ -23,6 +23,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Simple Fun #249: Subtraction By Regrouping](./5-kyu/simple-fun-249-subtraction-by-regrouping.md)**
 - **[Simple Pig Latin](./5-kyu/simple-pig-latin.md)**
 - **[String incrementer](./5-kyu/string_incrementer.md)**
+- **[The Hashtag Generator](./5-kyu/the-hashtag-generator.md)**
 - **[Tic-Tac-Toe Checker](./5-kyu/tic-tac-toe-checker.md)**
 - **[Value of x](./5-kyu/value-of-x.md)**
 - **[Weight for weight](./5-kyu/weight-for-weight.md)**
