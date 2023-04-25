@@ -27,6 +27,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 - **[Are they the "same"?](./6-kyu/are-they-the-same.md)**
 - **[Array.diff](./6-kyu/array-diff.md)**
+- **[ASCII Fun #1: X-Shape](./6-kyu/ascii-fun-1-x-shape.md)**
 - **[Bit Counting](./6-kyu/bit-counting.md)**
 - **[Break camelCase](./6-kyu/break-camel-case.md)**
 - **[Build Tower!](./6-kyu/build-tower.md)**
