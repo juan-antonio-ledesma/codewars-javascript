@@ -12,6 +12,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**
 - **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**
 - **[Greed is Good](./5-kyu/greed-is-good.md)**
+- **[Human Readable Time](./5-kyu/human-readable-time.md)**
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**
