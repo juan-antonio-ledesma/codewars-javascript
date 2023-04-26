@@ -123,6 +123,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 - **[Chuck Norris VII - True or False? (Beginner)](./8-kyu/chuck-norris-vii-true-or-false-beginner.md)**
 - **[Compare within margin](./8-kyu/compare-within-margin.md)**
+- **[Convert a string to an array](./8-kyu/convert-a-string-to-an-array.md)**
 - **[Is your period late?](./8-kyu/is-your-period-late.md)**
 - **[Multiplication table for number](./8-kyu/multiplication-table-for-number.md)**
 - **[Multiply](./8-kyu/multiply.md)**
