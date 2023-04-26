@@ -101,6 +101,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Digit\*Digit](./7-kyu/digit-digit.md)**
 - **[Disemvowel Trolls](./7-kyu/disemvowel-trolls.md)**
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**
+- **[Factorial](./7-kyu/factorial.md)**
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**
 - **[Homogenous arrays](./7-kyu/homogenous-arrays.md)**
