@@ -103,6 +103,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Disemvowel Trolls](./7-kyu/disemvowel-trolls.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Factorial](./7-kyu/factorial.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Find the next perfect square!](./7-kyu/find-the-next-perfect-square.md)**<br><sup>`ALGEBRA` `FUNDAMENTALS`</sup>
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Homogenous arrays](./7-kyu/homogenous-arrays.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `FUNCTIONAL PROGRAMMING`</sup>
