@@ -36,10 +36,7 @@ const findMissingLetter = array => {
   const lowerCaseLetters = array.join('').toLowerCase()
   const firstLetter = lowerCaseLetters[0]
   const positionFirstLetterInAlphabet = ALPHABET.indexOf(firstLetter)
-  const completeLetterSequence = ALPHABET.slice(
-    positionFirstLetterInAlphabet,
-    positionFirstLetterInAlphabet + array.length,
-  )
+  const completeLetterSequence = ALPHABET.slice(positionFirstLetterInAlphabet)
 
   for (let i = 0; i < completeLetterSequence.length; i++) {
     if (completeLetterSequence[i] !== lowerCaseLetters[i]) {
@@ -47,7 +44,6 @@ const findMissingLetter = array => {
         ? completeLetterSequence[i].toUpperCase()
         : completeLetterSequence[i]
     }
-    continue
   }
 }
 ```
