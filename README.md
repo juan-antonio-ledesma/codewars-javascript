@@ -54,6 +54,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Does my number look big in this?](./6-kyu/does-my-number-look-big-in-this.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Duplicate Encoder](./6-kyu/duplicate-encoder.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Emotional Sort ( ︶︿︶)](./6-kyu/emotional-sort.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `SORTING`</sup>
+- **[Find Cracker.](./6-kyu/find-cracker.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Find the missing letter](./6-kyu/find-the-missing-letter.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Find the odd int](./6-kyu/find-the-odd-int.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**<br><sup>`ALGORITHMS`</sup>
