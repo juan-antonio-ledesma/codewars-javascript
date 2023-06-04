@@ -129,6 +129,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Chuck Norris VII - True or False? (Beginner)](./8-kyu/chuck-norris-vii-true-or-false-beginner.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Compare within margin](./8-kyu/compare-within-margin.md)**<br><sup>`FUNDAMENTALS` `LOGIC`</sup>
 - **[Convert a string to an array](./8-kyu/convert-a-string-to-an-array.md)**<br><sup>`ARRAYS` `STRINGS` `FUNDAMENTALS`</sup>
+- **[Convert boolean values to strings 'Yes' or 'No'.](./8-kyu/convert-boolean-values-to-strings-yes-or-no.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Is your period late?](./8-kyu/is-your-period-late.md)**<br><sup>`FUNDAMENTALS` `DATE TIME`</sup>
 - **[Multiplication table for number](./8-kyu/multiplication-table-for-number.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Multiply](./8-kyu/multiply.md)**<br><sup>`DEBUGGING` `FUNDAMENTALS`</sup>
