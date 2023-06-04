@@ -44,6 +44,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Build Tower!](./6-kyu/build-tower.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
 - **[Card game](./6-kyu/card-game.md)**<br><sup>`ALGORITHMS` `GAMES` `STRINGS`</sup>
 - **[Checkered Board](./6-kyu/checkered-board.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
+- **[Consecutive strings](./6-kyu/consecutive-strings.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**<br><sup>`REGULAR EXPRESSIONS` `ALGORITHMS` `STRINGS`</sup>
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Counting Duplicates](./6-kyu/counting-duplicates.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
