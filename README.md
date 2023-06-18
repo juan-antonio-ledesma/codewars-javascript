@@ -85,6 +85,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[The Office V - Find a Chair](./6-kyu/the-office-v-find-a-chair.md)**<br><sup>`FUNDAMENTALS` `ARRAYS` `STRINGS`</sup>
 - **[The Supermarket Queue](./6-kyu/the-supermarket-queue.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[Tribonacci Sequence](./6-kyu/tribonacci-sequence.md)**<br><sup>`NUMBER` `THEORY ARRAYS` `LISTS` `FUNDAMENTALS`</sup>
+- **[Two Sum](./6-kyu/two-sum.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Unique In Order](./6-kyu/unique-in-order.md)**<br><sup>`ALGORITHMS` `FUNDAMENTALS`</sup>
 - **[Valid Braces](./6-kyu/valid-braces.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Valid Parentheses](./6-kyu/valid-parentheses.md)**<br><sup>`ALGORITHMS`</sup>
