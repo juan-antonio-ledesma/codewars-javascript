@@ -69,6 +69,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Mexican Wave](./6-kyu/mexican-wave.md)**<br><sup>`ARRAYS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Multiples of 3 or 5](./6-kyu/multiples-of-3-or-5.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Multiplication table](./6-kyu/multiplication-table.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
+- **[Number Format](./6-kyu/number-format.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Persistent Bugger](./6-kyu/persistent-bugger.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Piano Kata, Part 1](./6-kyu/piano-kata-part-1.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Piano Kata, Part 2](./6-kyu/piano-kata-part-2.md)**<br><sup>`FUNDAMENTALS`</sup>
