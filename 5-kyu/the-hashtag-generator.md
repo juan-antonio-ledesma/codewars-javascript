@@ -26,10 +26,10 @@ const capitalize = str => {
 }
 
 const generateHashtag = str => {
-  if (str === '' || str.trim() === '') return false
+  if (str.trim() === '') return false
 
   const hashtag = `#${str
-    .split(' ')
+    .split(/\s+/)
     .map(str => capitalize(str))
     .join('')}`
 
