@@ -85,6 +85,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `ALGORITHMS` `QUEUES DATA` `STRUCTURES`</sup>
 - **[The Office V - Find a Chair](./6-kyu/the-office-v-find-a-chair.md)**<br><sup>`FUNDAMENTALS` `ARRAYS` `STRINGS`</sup>
 - **[The Supermarket Queue](./6-kyu/the-supermarket-queue.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
+- **[Triangle of Multiples (Easy One)](./6-kyu/triangle-of-multiples-easy-one.md)**<br><sup>`MATHEMATICS` `DATA STRUCTURES` `FUNDAMENTALS`</sup>
 - **[Tribonacci Sequence](./6-kyu/tribonacci-sequence.md)**<br><sup>`NUMBER` `THEORY ARRAYS` `LISTS` `FUNDAMENTALS`</sup>
 - **[Two Sum](./6-kyu/two-sum.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Unique In Order](./6-kyu/unique-in-order.md)**<br><sup>`ALGORITHMS` `FUNDAMENTALS`</sup>
