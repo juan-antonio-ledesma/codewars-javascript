@@ -117,6 +117,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Isograms](./7-kyu/isograms.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Make a function that does arithmetic!](./7-kyu/make-a-function-that-does-arithmetic.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
