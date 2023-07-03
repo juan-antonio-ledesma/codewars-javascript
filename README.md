@@ -50,6 +50,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Counting Duplicates](./6-kyu/counting-duplicates.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Create Phone Number](./6-kyu/create-phone-number.md)**<br><sup>`ARRAYS` `STRINGS` `REGULAR EXPRESSIONS` `ALGORITHMS`</sup>
+- **[Data Reverse](./6-kyu/data-reverse.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[Decode the Morse code](./6-kyu/decode-the-morse-code.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Delete occurrences of an element if it occurs more than n times](./6-kyu/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times.md)**<br><sup>`LISTS` `FUNDAMENTALS`</sup>
 - **[Detect Pangram](./6-kyu/detect-pangram.md)**<br><sup>`STRINGS` `DATA STRUCTURES` `FUNDAMENTALS`</sup>
