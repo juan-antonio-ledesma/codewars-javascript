@@ -47,6 +47,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Collatz](./6-kyu/collatz.md)**<br><sup>`NUMBER THEORY` `ALGORITHMS`</sup>
 - **[Consecutive strings](./6-kyu/consecutive-strings.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**<br><sup>`REGULAR EXPRESSIONS` `ALGORITHMS` `STRINGS`</sup>
+- **[Count characters in your string](./6-kyu/count-characters-in-your-string.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Count the smiley faces!](./6-kyu/count-the-smiley-faces.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Counting Duplicates](./6-kyu/counting-duplicates.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Create Phone Number](./6-kyu/create-phone-number.md)**<br><sup>`ARRAYS` `STRINGS` `REGULAR EXPRESSIONS` `ALGORITHMS`</sup>
