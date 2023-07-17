@@ -34,6 +34,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 ## 6 kyu
 
 - **[Are they the "same"?](./6-kyu/are-they-the-same.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Array Helpers](./6-kyu/array-helpers.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[Array.diff](./6-kyu/array-diff.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[ASCII Fun #1: X-Shape](./6-kyu/ascii-fun-1-x-shape.md)**<br><sup>`ASCII ART`</sup>
 - **[ASCII Fun #2: Funny Dots](./6-kyu/ascii-fun-2-funny-dots.md)**<br><sup>`ASCII ART`</sup>
