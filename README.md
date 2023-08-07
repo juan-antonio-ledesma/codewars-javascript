@@ -42,6 +42,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[ASCII Fun #4: Build a pyramid](./6-kyu/ascii-fun-4-build-a-pyramid.md)**<br><sup>`ASCII ART`</sup>
 - **[Bit Counting](./6-kyu/bit-counting.md)**<br><sup>`BITS` `ALGORITHMS`</sup>
 - **[Break camelCase](./6-kyu/break-camel-case.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
+- **[Build a pile of Cubes](./6-kyu/build-a-pile-of-cubes.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Build Tower!](./6-kyu/build-tower.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
 - **[Card game](./6-kyu/card-game.md)**<br><sup>`ALGORITHMS` `GAMES` `STRINGS`</sup>
 - **[Checkered Board](./6-kyu/checkered-board.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
