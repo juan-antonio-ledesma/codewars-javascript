@@ -133,6 +133,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[The Office II - Boredom Score](./7-kyu/the-office-ii-boredom-score.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[The Office III - Broken Photocopier](./7-kyu/the-office-iii-broken-photocopier.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `ARRAYS`</sup>
 - **[The Office IV - Find a Meeting Room](./7-kyu/the-office-iv-finda-a-meeting-room.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
+- **[Two to One](./7-kyu/two-to-one.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[V A P O R C O D E](./7-kyu/v-a-p-o-r-c-o-d-e.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Vowel Count](./7-kyu/vowel-count.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 
