@@ -126,6 +126,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Make a function that does arithmetic!](./7-kyu/make-a-function-that-does-arithmetic.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[Sort array by string length](./7-kyu/sort-array-by-string-length.md)**<br><sup>`SORTING` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sum of the first nth term of Series](./7-kyu/sum-of-the-first-nth-term-of-series.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
