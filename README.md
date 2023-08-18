@@ -1,4 +1,4 @@
-# Codewars · Javascript
+# Codewars · JavaScript
 
 JavaScript katas on Codewars are programming challenges that help you improve your skills in the language. Each kata presents a specific problem for you to solve using programming techniques and algorithms. Upon completing each kata, you can compare your solution with others and receive feedback and points based on its effectiveness and efficiency.
 
