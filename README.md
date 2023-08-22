@@ -66,6 +66,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Find The Parity Outlier](./6-kyu/find-the-parity-outlier.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Find the unique number](./6-kyu/find-the-unique-number.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS` `ARRAYS`</sup>
 - **[Good vs Evil](./6-kyu/good-vs-evil.md)**<br><sup>`ALGORITHMS`</sup>
+- **[Handshake problem](./6-kyu/handshake-problem.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Highest Scoring Word](./6-kyu/highest-scoring-word.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `ARRAYS`</sup>
 - **[Is a number prime?](./6-kyu/is-a-number-prime.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Make the Deadfish Swim](./6-kyu/make-the-deadfish-swim.md)**<br><sup>`PARSING` `ALGORITHMS`</sup>
