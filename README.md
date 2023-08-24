@@ -2,6 +2,27 @@
 
 JavaScript katas on Codewars are programming challenges that help you improve your skills in the language. Each kata presents a specific problem for you to solve using programming techniques and algorithms. Upon completing each kata, you can compare your solution with others and receive feedback and points based on its effectiveness and efficiency.
 
+<table>
+  <thead>
+    <tr>
+      <th align="left">Table of contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>
+          <a href="#4-kyu">4 kyu</a><br />
+          <a href="#5-kyu">5 kyu</a><br />
+          <a href="#6-kyu">6 kyu</a><br />
+          <a href="#7-kyu">7 kyu</a><br />
+          <a href="#8-kyu">8 kyu</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 4 kyu
 
 - **[Human readable duration format](./4-kyu/human-readable-duration-format.md)**<br><sup>`STRINGS` `DATE TIME` `ALGORITHMS`</sup>
