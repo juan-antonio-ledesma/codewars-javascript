@@ -61,6 +61,8 @@ Object.assign(Array.prototype, {
 })
 ```
 
+---
+
 ```javascript
 Array.prototype.square = function () {
   return this.map(num => Math.pow(num, 2))
