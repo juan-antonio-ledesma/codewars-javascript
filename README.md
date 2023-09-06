@@ -132,6 +132,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Alphabetical Addition](./7-kyu/alphabetical-addition.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Beginner Series #3 Sum of Numbers](./7-kyu/beginner-series-3-sum-of-numbers.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Complementary DNA](./7-kyu/complementary-dna.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
+- **[Count the divisors of a number](./7-kyu/count-the-divisors-of-a-number.md)**<br><sup>`NUMBER THEORY` `MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Descending Order](./7-kyu/descending-order.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Digit\*Digit](./7-kyu/digit-digit.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Disemvowel Trolls](./7-kyu/disemvowel-trolls.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
