@@ -109,6 +109,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Stop gninnipS My sdroW!](./6-kyu/stop-gninnips-my-sdrow.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
 - **[Sum of Digits / Digital Root](./6-kyu/sum-of-digits-digital-root.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Sums of Parts](./6-kyu/sums-of-parts.md)**<br><sup>`FUNDAMENTALS` `PERFORMANCE` `ALGORITHMS`</sup>
+- **[Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](./6-kyu/take-a-number-and-sum-its-digits-raised-to-the-consecutive-powersand-eureka.md)**<br><sup>`FUNDAMENTALS` `MATHEMATICS`</sup>
 - **[Take a Ten Minutes Walk](./6-kyu/take-a-ten-minutes-walk.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[The Deaf Rats of Hamelin](./6-kyu/the-deaf-rats-of-hamelin.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `ALGORITHMS` `QUEUES DATA` `STRUCTURES`</sup>
 - **[The Office V - Find a Chair](./6-kyu/the-office-v-find-a-chair.md)**<br><sup>`FUNDAMENTALS` `ARRAYS` `STRINGS`</sup>
