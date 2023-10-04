@@ -121,6 +121,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Unique In Order](./6-kyu/unique-in-order.md)**<br><sup>`ALGORITHMS` `FUNDAMENTALS`</sup>
 - **[Valid Braces](./6-kyu/valid-braces.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Valid Parentheses](./6-kyu/valid-parentheses.md)**<br><sup>`ALGORITHMS`</sup>
+- **[WeIrD StRiNg CaSe](./6-kyu/weird-string-case.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
 - **[What century is it?](./6-kyu/what-century-is-it.md)**<br><sup>`STRINGS` `ALGORITHMS` `DATE TIME`</sup>
 - **[Which are in?](./6-kyu/which-are-in.md)**<br><sup>`ARRAYS` `LISTS` `STRINGS` `REFACTORING`</sup>
 - **[Who likes it?](./6-kyu/who-likes-it.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
