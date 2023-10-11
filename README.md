@@ -89,6 +89,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Good vs Evil](./6-kyu/good-vs-evil.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Handshake problem](./6-kyu/handshake-problem.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Highest Scoring Word](./6-kyu/highest-scoring-word.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `ARRAYS`</sup>
+- **[IP Validation](./6-kyu/ip-validation.md)**<br><sup>`REGULAR EXPRESSIONS` `ALGORITHMS`</sup>
 - **[Is a number prime?](./6-kyu/is-a-number-prime.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Make the Deadfish Swim](./6-kyu/make-the-deadfish-swim.md)**<br><sup>`PARSING` `ALGORITHMS`</sup>
 - **[Matrix Addition](./6-kyu/matrix-addition.md)**<br><sup>`MATRIX` `ARRAYS` `ALGORITHMS`</sup>
