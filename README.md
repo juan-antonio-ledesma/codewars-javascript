@@ -105,6 +105,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Roman Numerals Encoder](./6-kyu/roman-numerals-encoder.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Selective Array Reversing](./6-kyu/selective-array-reversing.md)**<br><sup>`ALGORITHMS` `LOGIC` `ARRAYS`</sup>
 - **[Simple Fun #212: Processing Requests!](./6-kyu/simple-fun-212-processing-requests.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Sort My Animals](./6-kyu/sort-my-animals.md)**<br><sup>`LISTS` `SORTING` `FUNDAMENTALS`</sup>
 - **[Sort the odd](./6-kyu/sort-the-odd.md)**<br><sup>`FUNDAMENTALS` `ARRAYS` `SORTING`</sup>
 - **[Split Strings](./6-kyu/split-strings.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS` `ALGORITHMS`</sup>
 - **[Stop gninnipS My sdroW!](./6-kyu/stop-gninnips-my-sdrow.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
