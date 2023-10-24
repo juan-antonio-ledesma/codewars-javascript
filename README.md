@@ -65,6 +65,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Break camelCase](./6-kyu/break-camel-case.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Build a pile of Cubes](./6-kyu/build-a-pile-of-cubes.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Build Tower!](./6-kyu/build-tower.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
+- **[CamelCase Method](./6-kyu/camelcase-method.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS` `STRINGS`</sup>
 - **[Card game](./6-kyu/card-game.md)**<br><sup>`ALGORITHMS` `GAMES` `STRINGS`</sup>
 - **[Checkered Board](./6-kyu/checkered-board.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
 - **[Collatz](./6-kyu/collatz.md)**<br><sup>`NUMBER THEORY` `ALGORITHMS`</sup>
@@ -135,6 +136,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 ## 7 kyu
 
 - **[Alphabetical Addition](./7-kyu/alphabetical-addition.md)**<br><sup>`ALGORITHMS`</sup>
+- **[Anagram Detection](./7-kyu/anagram-detection.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Beginner Series #3 Sum of Numbers](./7-kyu/beginner-series-3-sum-of-numbers.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Complementary DNA](./7-kyu/complementary-dna.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Converting 12-hour time to 24-hour time](./7-kyu/converting-12-hour-time-to-24-hour-time.md)**<br><sup>`DATE TIME` `ALGORITHMS`</sup>
@@ -145,6 +147,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Factorial](./7-kyu/factorial.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Find the next perfect square!](./7-kyu/find-the-next-perfect-square.md)**<br><sup>`ALGEBRA` `FUNDAMENTALS`</sup>
+- **[Find the stray number](./7-kyu/find-the-stray-number.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Friend or Foe?](./7-kyu/friend-or-foe.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
@@ -185,4 +188,5 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Power](./8-kyu/power.md)**<br><sup>`RESTRICTED`</sup>
 - **[Remove First and Last Character Part Two](./8-kyu/remove-first-and-last-character-part-two.md)**<br><sup>`FUNDAMENTALS` `ARRAYS` `STRINGS`</sup>
 - **[Removing Elements](./8-kyu/removing-elements.md)**<br><sup>`LISTS` `ARRAYS` `FUNDAMENTALS`</sup>
+- **[Return Negative](./8-kyu/return-negative.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Simple Comparison?](./8-kyu/simple-comparison.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
