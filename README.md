@@ -157,6 +157,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Isograms](./7-kyu/isograms.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[List Filtering](./7-kyu/list-filtering.md)**<br><sup>`LISTS` `FILTERING` `DATA STRUCTURES` `FUNDAMENTALS`</sup>
 - **[Make a function that does arithmetic!](./7-kyu/make-a-function-that-does-arithmetic.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Mumbling](./7-kyu/mumbling.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `PUZZLES`</sup>
