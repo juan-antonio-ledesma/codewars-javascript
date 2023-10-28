@@ -156,6 +156,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Is this a triangle](./7-kyu/is-this-a-triangle.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Isograms](./7-kyu/isograms.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
+- **[Leap Years](./7-kyu/leap-years.md)**<br><sup>`DATE TIME` `ALGORITHMS`</sup>
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[List Filtering](./7-kyu/list-filtering.md)**<br><sup>`LISTS` `FILTERING` `DATA STRUCTURES` `FUNDAMENTALS`</sup>
 - **[Make a function that does arithmetic!](./7-kyu/make-a-function-that-does-arithmetic.md)**<br><sup>`FUNDAMENTALS`</sup>
