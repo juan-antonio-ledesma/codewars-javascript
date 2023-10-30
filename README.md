@@ -147,6 +147,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Every possible sum of two digits](./7-kyu/every-possible-sum-of-two-digits.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Factorial](./7-kyu/factorial.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Find Count of Most Frequent Item in an Array](./7-kyu/find-count-of-most-frequent-Item-in-an-array.md)**<br><sup>`DATA STRUCTURES` `FUNDAMENTALS`</sup>
+- **[Find The Duplicated Number in a Consecutive Unsorted List](./7-kyu/find-the-duplicated-number-in-a-consecutive-unsorted-list.md)**<br><sup>`ARRAYS` `ALGORITHMS`</sup>
 - **[Find the next perfect square!](./7-kyu/find-the-next-perfect-square.md)**<br><sup>`ALGEBRA` `FUNDAMENTALS`</sup>
 - **[Find the stray number](./7-kyu/find-the-stray-number.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Friend or Foe?](./7-kyu/friend-or-foe.md)**<br><sup>`FUNDAMENTALS`</sup>
