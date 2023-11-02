@@ -158,6 +158,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Is n divisible by (...)?](./7-kyu/is-n-divisible-by.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Is this a triangle](./7-kyu/is-this-a-triangle.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Isograms](./7-kyu/isograms.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
+- **[Jaden Casing Strings](./7-kyu/jaden-casing-strings.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Leap Years](./7-kyu/leap-years.md)**<br><sup>`DATE TIME` `ALGORITHMS`</sup>
 - **[Letterbox Paint-Squad](./7-kyu/letterbox-paint-squad.md)**<br><sup>`FUNDAMENTALS`</sup>
