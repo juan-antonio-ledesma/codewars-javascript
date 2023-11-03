@@ -169,6 +169,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Odd or Even?](./7-kyu/odd-or-even.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Ones and Zeros](./7-kyu/ones-and-zeros.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[Shortest Word](./7-kyu/shortest-word.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sort array by string length](./7-kyu/sort-array-by-string-length.md)**<br><sup>`SORTING` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sum of the first nth term of Series](./7-kyu/sum-of-the-first-nth-term-of-series.md)**<br><sup>`FUNDAMENTALS`</sup>
