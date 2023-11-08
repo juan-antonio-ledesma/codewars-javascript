@@ -158,6 +158,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Homogenous arrays](./7-kyu/homogenous-arrays.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `FUNCTIONAL PROGRAMMING`</sup>
 - **[Is n divisible by (...)?](./7-kyu/is-n-divisible-by.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Is this a triangle](./7-kyu/is-this-a-triangle.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[isEven? - Bitwise Series](./7-kyu/is-even-bitwise-series.md)**<br><sup>`RESTRICTED` `FUNDAMENTALS`</sup>
 - **[Isograms](./7-kyu/isograms.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Jaden Casing Strings](./7-kyu/jaden-casing-strings.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[L2: Triple X](./7-kyu/l2-triple-x.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
