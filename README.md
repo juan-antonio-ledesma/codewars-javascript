@@ -176,6 +176,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Shortest Word](./7-kyu/shortest-word.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sort array by string length](./7-kyu/sort-array-by-string-length.md)**<br><sup>`SORTING` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[String ends with?](./7-kyu/string-ends-with.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Sum of the first nth term of Series](./7-kyu/sum-of-the-first-nth-term-of-series.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[The Office I - Outed](./7-kyu/the-office-i-outed.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
