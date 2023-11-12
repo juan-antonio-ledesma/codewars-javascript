@@ -137,6 +137,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 - **[Alphabetical Addition](./7-kyu/alphabetical-addition.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Anagram Detection](./7-kyu/anagram-detection.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
+- **[Array2Binary addition](./7-kyu/array-2-binary-addition.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Beginner Series #3 Sum of Numbers](./7-kyu/beginner-series-3-sum-of-numbers.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Binary Addition](./7-kyu/binary-addition.md)**<br><sup>`BINARY` `FUNDAMENTALS`</sup>
 - **[Complementary DNA](./7-kyu/complementary-dna.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
