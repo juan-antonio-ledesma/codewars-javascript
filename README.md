@@ -159,6 +159,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Homogenous arrays](./7-kyu/homogenous-arrays.md)**<br><sup>`ARRAYS` `FUNDAMENTALS` `FUNCTIONAL PROGRAMMING`</sup>
+- **[How many e-mails we sent today?](./7-kyu/how-many-e-mails-we-sent-today.md)**<br><sup>`FUNDAMENTALS` `LOGIC` `MATHEMATICS`</sup>
 - **[Is n divisible by (...)?](./7-kyu/is-n-divisible-by.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Is this a triangle](./7-kyu/is-this-a-triangle.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[isEven? - Bitwise Series](./7-kyu/is-even-bitwise-series.md)**<br><sup>`RESTRICTED` `FUNDAMENTALS`</sup>
