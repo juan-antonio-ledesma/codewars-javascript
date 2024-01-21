@@ -152,6 +152,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Factorial](./7-kyu/factorial.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Find Count of Most Frequent Item in an Array](./7-kyu/find-count-of-most-frequent-Item-in-an-array.md)**<br><sup>`DATA STRUCTURES` `FUNDAMENTALS`</sup>
 - **[Find missing numbers](./7-kyu/find-missing-numbers.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
+- **[Find the capitals](./7-kyu/find-the-capitals.md)**<br><sup>`STRINGS` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Find The Duplicated Number in a Consecutive Unsorted List](./7-kyu/find-the-duplicated-number-in-a-consecutive-unsorted-list.md)**<br><sup>`ARRAYS` `ALGORITHMS`</sup>
 - **[Find the next perfect square!](./7-kyu/find-the-next-perfect-square.md)**<br><sup>`ALGEBRA` `FUNDAMENTALS`</sup>
 - **[Find the stray number](./7-kyu/find-the-stray-number.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
