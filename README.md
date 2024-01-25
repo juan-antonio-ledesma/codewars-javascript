@@ -173,6 +173,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Make a function that does arithmetic!](./7-kyu/make-a-function-that-does-arithmetic.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Mumbling](./7-kyu/mumbling.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `PUZZLES`</sup>
+- **[Naughty or Nice?](./7-kyu/naughty-or-nice.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Odd or Even?](./7-kyu/odd-or-even.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Ones and Zeros](./7-kyu/ones-and-zeros.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Only one](./7-kyu/only-one.md)**<br><sup>`ALGORITHMS`</sup>
