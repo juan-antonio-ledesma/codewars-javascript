@@ -195,6 +195,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[V A P O R C O D E](./7-kyu/v-a-p-o-r-c-o-d-e.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Vowel Count](./7-kyu/vowel-count.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[You're a square!](./7-kyu/you-are-a-square.md)**<br><sup>`FUNDAMENTALS` `MATHEMATICS`</sup>
+- **[Number of People in the Bus](./7-kyu/number-of-people-in-the-bus.md)**<br><sup>`FUNDAMENTALS`</sup>
 
 ## 8 kyu
 
