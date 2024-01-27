@@ -174,10 +174,12 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Mumbling](./7-kyu/mumbling.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `PUZZLES`</sup>
 - **[Naughty or Nice?](./7-kyu/naughty-or-nice.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[Number of People in the Bus](./7-kyu/number-of-people-in-the-bus.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Odd or Even?](./7-kyu/odd-or-even.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Ones and Zeros](./7-kyu/ones-and-zeros.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Only one](./7-kyu/only-one.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Plus - minus - plus - plus - ... - Count](./7-kyu/plus-minus-plus-plus-count.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Regex validate PIN code](./7-kyu/regex-validate-pin-code.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Remove anchor from URL](./7-kyu/remove-anchor-from-url.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Reverse words](./7-kyu/reverse-words.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
@@ -195,7 +197,6 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[V A P O R C O D E](./7-kyu/v-a-p-o-r-c-o-d-e.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Vowel Count](./7-kyu/vowel-count.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[You're a square!](./7-kyu/you-are-a-square.md)**<br><sup>`FUNDAMENTALS` `MATHEMATICS`</sup>
-- **[Number of People in the Bus](./7-kyu/number-of-people-in-the-bus.md)**<br><sup>`FUNDAMENTALS`</sup>
 
 ## 8 kyu
 
