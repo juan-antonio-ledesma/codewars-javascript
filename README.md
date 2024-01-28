@@ -144,6 +144,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Complementary DNA](./7-kyu/complementary-dna.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Converting 12-hour time to 24-hour time](./7-kyu/converting-12-hour-time-to-24-hour-time.md)**<br><sup>`DATE TIME` `ALGORITHMS`</sup>
 - **[Count the divisors of a number](./7-kyu/count-the-divisors-of-a-number.md)**<br><sup>`NUMBER THEORY` `MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[Credit Card Mask](./7-kyu/credit-card-mask.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
 - **[Descending Order](./7-kyu/descending-order.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Digit\*Digit](./7-kyu/digit-digit.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Disemvowel Trolls](./7-kyu/disemvowel-trolls.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
