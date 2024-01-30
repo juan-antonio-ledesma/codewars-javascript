@@ -184,6 +184,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Remove anchor from URL](./7-kyu/remove-anchor-from-url.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Reverse words](./7-kyu/reverse-words.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
+- **[Round up to the next multiple of 5](./7-kyu/round-up-to-the-next-multiple-of-5.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Shortest Word](./7-kyu/shortest-word.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sort array by string length](./7-kyu/sort-array-by-string-length.md)**<br><sup>`SORTING` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
