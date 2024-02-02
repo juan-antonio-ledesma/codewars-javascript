@@ -180,6 +180,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Ones and Zeros](./7-kyu/ones-and-zeros.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Only one](./7-kyu/only-one.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Plus - minus - plus - plus - ... - Count](./7-kyu/plus-minus-plus-plus-count.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Printer Errors](./7-kyu/%20printer-errors.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Regex validate PIN code](./7-kyu/regex-validate-pin-code.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Remove anchor from URL](./7-kyu/remove-anchor-from-url.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
