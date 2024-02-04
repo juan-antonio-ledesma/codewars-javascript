@@ -194,6 +194,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Sum of odd numbers](./7-kyu/sum-of-odd-numbers.md)**<br><sup>`ARRAYS` `LISTS` `MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Sum of the first nth term of Series](./7-kyu/sum-of-the-first-nth-term-of-series.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Sum of two lowest positive integers](./7-kyu/sum-of-two-lowest-positive-integers.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
+- **[The highest profit wins!](./7-kyu/the-highest-profit-wins.md)**<br><sup>`LISTS` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[The Office I - Outed](./7-kyu/the-office-i-outed.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[The Office II - Boredom Score](./7-kyu/the-office-ii-boredom-score.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[The Office III - Broken Photocopier](./7-kyu/the-office-iii-broken-photocopier.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `ARRAYS`</sup>
