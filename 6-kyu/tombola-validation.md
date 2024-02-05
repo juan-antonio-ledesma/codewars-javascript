@@ -14,7 +14,7 @@
 
 **SHEET SAMPLES**
 
-![Tombola sheet samples](http://i46.servimg.com/u/f46/13/76/83/45/cartel11.jpg)
+![Tombola sheet samples](../images/tombola-sheet-samples.jpg)
 
 **THE KATA**
 
