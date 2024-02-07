@@ -157,6 +157,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Find the capitals](./7-kyu/find-the-capitals.md)**<br><sup>`STRINGS` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Find the divisors!](./7-kyu/find-the-divisors.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Find The Duplicated Number in a Consecutive Unsorted List](./7-kyu/find-the-duplicated-number-in-a-consecutive-unsorted-list.md)**<br><sup>`ARRAYS` `ALGORITHMS`</sup>
+- **[Find the middle element](./7-kyu/find-the-middle-element.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[Find the next perfect square!](./7-kyu/find-the-next-perfect-square.md)**<br><sup>`ALGEBRA` `FUNDAMENTALS`</sup>
 - **[Find the stray number](./7-kyu/find-the-stray-number.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Friend or Foe?](./7-kyu/friend-or-foe.md)**<br><sup>`FUNDAMENTALS`</sup>
