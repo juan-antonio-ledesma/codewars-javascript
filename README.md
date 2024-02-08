@@ -160,6 +160,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Find the middle element](./7-kyu/find-the-middle-element.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[Find the next perfect square!](./7-kyu/find-the-next-perfect-square.md)**<br><sup>`ALGEBRA` `FUNDAMENTALS`</sup>
 - **[Find the stray number](./7-kyu/find-the-stray-number.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
+- **[Fix string case](./7-kyu/fix-string-case.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Friend or Foe?](./7-kyu/friend-or-foe.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Get the Middle Character](./7-kyu/get-the-middle-character.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Highest and Lowest](./7-kyu/highest-and-lowest.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
