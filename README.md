@@ -189,6 +189,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Printer Errors](./7-kyu/printer-errors.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Regex validate PIN code](./7-kyu/regex-validate-pin-code.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Remove anchor from URL](./7-kyu/remove-anchor-from-url.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS` `FUNDAMENTALS`</sup>
+- **[Remove the minimum](./7-kyu/remove-the-minimum.md)**<br><sup>`LISTS` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Return the closest number multiple of 10](./7-kyu/return-the-closest-number-multiple-of-10.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Reverse words](./7-kyu/reverse-words.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Round up to the next multiple of 5](./7-kyu/round-up-to-the-next-multiple-of-5.md)**<br><sup>`FUNDAMENTALS`</sup>
