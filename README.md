@@ -95,6 +95,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Is a number prime?](./6-kyu/is-a-number-prime.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Make the Deadfish Swim](./6-kyu/make-the-deadfish-swim.md)**<br><sup>`PARSING` `ALGORITHMS`</sup>
 - **[Matrix Addition](./6-kyu/matrix-addition.md)**<br><sup>`MATRIX` `ARRAYS` `ALGORITHMS`</sup>
+- **[Meeting](./6-kyu/meeting.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Mexican Wave](./6-kyu/mexican-wave.md)**<br><sup>`ARRAYS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Multiples of 3 or 5](./6-kyu/multiples-of-3-or-5.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Multiplication table](./6-kyu/multiplication-table.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
