@@ -182,6 +182,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Merge two arrays](./7-kyu/merge-two-arrays.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Mumbling](./7-kyu/mumbling.md)**<br><sup>`FUNDAMENTALS` `STRINGS` `PUZZLES`</sup>
 - **[Naughty or Nice?](./7-kyu/naughty-or-nice.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[Naughty or Nice](./7-kyu/naughty-or-nice-2.md)**<br><sup>`JSON` `FUNDAMENTALS`</sup>
 - **[Number of People in the Bus](./7-kyu/number-of-people-in-the-bus.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Odd or Even?](./7-kyu/odd-or-even.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Ones and Zeros](./7-kyu/ones-and-zeros.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
