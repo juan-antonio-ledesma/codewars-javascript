@@ -42,6 +42,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Not very secure](./5-kyu/not-very-secure.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS`</sup>
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**<br><sup>`ALGORITHMS`</sup>
+- **[Regex Password Validation](./5-kyu/regex-password-validation.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Rot13](./5-kyu/rot13.md)**<br><sup>`CIPHERS` `FUNDAMENTALS`</sup>
 - **[Scramblies](./5-kyu/scramblies.md)**<br><sup>`STRINGS` `PERFORMANCE` `ALGORITHMS`</sup>
