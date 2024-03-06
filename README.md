@@ -39,6 +39,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Human Readable Time](./5-kyu/human-readable-time.md)**<br><sup>`DATE TIME` `MATHEMATICS` `ALGORITHMS`</sup>
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**<br><sup>`ARRAYS` `MATHEMATICS` `ALGORITHMS`</sup>
 - **[Moving Zeros To The End](./5-kyu/moving-zeros-to-the-end.md)**<br><sup>`ARRAYS` `SORTING` `ALGORITHMS`</sup>
+- **[Not very secure](./5-kyu/not-very-secure.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS`</sup>
 - **[Perimeter of squares in a rectangle](./5-kyu/perimeter-of-squares-in-a-rectangle.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**<br><sup>`ALGORITHMS`</sup>
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**<br><sup>`ALGORITHMS`</sup>
