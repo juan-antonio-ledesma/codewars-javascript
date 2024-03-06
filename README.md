@@ -26,6 +26,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 ## 4 kyu
 
 - **[Human readable duration format](./4-kyu/human-readable-duration-format.md)**<br><sup>`STRINGS` `DATE TIME` `ALGORITHMS`</sup>
+- **[Snail](./4-kyu/snail.md)**<br><sup>`ARRAYS` `ALGORITHMS`</sup>
 
 ## 5 kyu
 
