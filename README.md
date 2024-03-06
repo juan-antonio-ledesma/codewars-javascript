@@ -107,6 +107,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Piano Kata, Part 1](./6-kyu/piano-kata-part-1.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Piano Kata, Part 2](./6-kyu/piano-kata-part-2.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Playing with digits](./6-kyu/playing-with-digits.md)**<br><sup>`FUNDAMENTALS` `MATHEMATICS`</sup>
+- **[Prefill an Array](./6-kyu/prefill-an-array.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
 - **[Replace With Alphabet Position](./6-kyu/replace-with-alphabet-position.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Roman Numerals Encoder](./6-kyu/roman-numerals-encoder.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Selective Array Reversing](./6-kyu/selective-array-reversing.md)**<br><sup>`ALGORITHMS` `LOGIC` `ARRAYS`</sup>
