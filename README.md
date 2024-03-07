@@ -25,6 +25,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 ## 4 kyu
 
+- **[Binary multiple of 3](./4-kyu/binary-multiple-of-3.md)**<br><sup>`REGULAR EXPRESSIONS` `ALGORITHMS` `PUZZLES` `NUMBER THEORY`</sup>
 - **[Human readable duration format](./4-kyu/human-readable-duration-format.md)**<br><sup>`STRINGS` `DATE TIME` `ALGORITHMS`</sup>
 - **[Most frequently used words in a text](./4-kyu/most-frequently-used-words-in-a-text.md)**<br><sup>`STRINGS` `FILTERING` `ALGORITHMS` `REGULAR EXPRESSIONS`</sup>
 - **[Snail](./4-kyu/snail.md)**<br><sup>`ARRAYS` `ALGORITHMS`</sup>
