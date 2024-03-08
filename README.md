@@ -34,6 +34,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 - **[By the Power Set of Castle Grayskull](./5-kyu/by-the-power-set-of-castle-grayskull.md)**<br><sup>`MATHEMATICS` `ALGORITHMS`</sup>
 - **[Convert A Hex String To RGB](./5-kyu/convert-a-hex-string-to-rgb.md)**<br><sup>`PARSING` `STRINGS` `ALGORITHMS`</sup>
+- **[Convert PascalCase string into snake_case](./5-kyu/convert-pascal-case-string-into-snake-case.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
 - **[Don't Drink the Water](./5-kyu/dont-drink-the-water.md)**<br><sup>`ALGORITHMS` `ARRAYS` `SORTING` `LISTS`</sup>
 - **[Extract the domain name from a URL](./5-kyu/extract-the-domain-name-from-a-url.md)**<br><sup>`PARSING` `REGULAR EXPRESSIONS`</sup>
 - **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
