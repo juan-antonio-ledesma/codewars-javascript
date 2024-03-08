@@ -39,6 +39,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[First non-repeating character](./5-kyu/first-non-repeating-character.md)**<br><sup>`STRINGS` `ALGORITHMS`</sup>
 - **[Greed is Good](./5-kyu/greed-is-good.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Human Readable Time](./5-kyu/human-readable-time.md)**<br><sup>`DATE TIME` `MATHEMATICS` `ALGORITHMS`</sup>
+- **[Josephus Survivor](./5-kyu/josephus-survivor.md)**<br><sup>`MATHEMATICS` `COMBINATORICS` `ALGORITHMS` `LISTS` `ARRAYS`</sup>
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**<br><sup>`ARRAYS` `MATHEMATICS` `ALGORITHMS`</sup>
 - **[Moving Zeros To The End](./5-kyu/moving-zeros-to-the-end.md)**<br><sup>`ARRAYS` `SORTING` `ALGORITHMS`</sup>
 - **[Not very secure](./5-kyu/not-very-secure.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS`</sup>
