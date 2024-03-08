@@ -41,6 +41,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Greed is Good](./5-kyu/greed-is-good.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Human Readable Time](./5-kyu/human-readable-time.md)**<br><sup>`DATE TIME` `MATHEMATICS` `ALGORITHMS`</sup>
 - **[Josephus Survivor](./5-kyu/josephus-survivor.md)**<br><sup>`MATHEMATICS` `COMBINATORICS` `ALGORITHMS` `LISTS` `ARRAYS`</sup>
+- **[Maximum subarray sum](./5-kyu/maximum-subarray-sum.md)**<br><sup>`ALGORITHMS` `LISTS` `DYNAMIC PROGRAMMING` `FUNDAMENTALS` `PERFORMANCE`</sup>
 - **[Mean Square Error](./5-kyu/mean-square-error.md)**<br><sup>`ARRAYS` `MATHEMATICS` `ALGORITHMS`</sup>
 - **[Moving Zeros To The End](./5-kyu/moving-zeros-to-the-end.md)**<br><sup>`ARRAYS` `SORTING` `ALGORITHMS`</sup>
 - **[Not very secure](./5-kyu/not-very-secure.md)**<br><sup>`REGULAR EXPRESSIONS` `STRINGS`</sup>
