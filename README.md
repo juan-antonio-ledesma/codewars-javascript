@@ -46,6 +46,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Pete, the baker](./5-kyu/pete-the-baker.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Regex Password Validation](./5-kyu/regex-password-validation.md)**<br><sup>`REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[RGB To Hex Conversion](./5-kyu/rgb-to-hex-conversion.md)**<br><sup>`ALGORITHMS`</sup>
+- **[ROT13](./5-kyu/rot13-2.md)**<br><sup>`STRINGS` `CIPHERS` `REGULAR EXPRESSIONS` `ALGORITHMS`</sup>
 - **[Rot13](./5-kyu/rot13.md)**<br><sup>`CIPHERS` `FUNDAMENTALS`</sup>
 - **[Scramblies](./5-kyu/scramblies.md)**<br><sup>`STRINGS` `PERFORMANCE` `ALGORITHMS`</sup>
 - **[Simple Fun #249: Subtraction By Regrouping](./5-kyu/simple-fun-249-subtraction-by-regrouping.md)**<br><sup>`PUZZLES`</sup>
