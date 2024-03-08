@@ -78,6 +78,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[CamelCase Method](./6-kyu/camelcase-method.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS` `STRINGS`</sup>
 - **[Card game](./6-kyu/card-game.md)**<br><sup>`ALGORITHMS` `GAMES` `STRINGS`</sup>
 - **[Checkered Board](./6-kyu/checkered-board.md)**<br><sup>`STRINGS` `ASCII ART` `FUNDAMENTALS`</sup>
+- **[Clever split](./6-kyu/clever-split.md)**<br><sup>`STRINGS` `REGULAR EXPRESSIONS` `FUNDAMENTALS`</sup>
 - **[Collatz](./6-kyu/collatz.md)**<br><sup>`NUMBER THEORY` `ALGORITHMS`</sup>
 - **[Consecutive strings](./6-kyu/consecutive-strings.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Convert string to camel case](./6-kyu/convert-string-to-camel-case.md)**<br><sup>`REGULAR EXPRESSIONS` `ALGORITHMS` `STRINGS`</sup>
