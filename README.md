@@ -210,6 +210,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Reverse words](./7-kyu/reverse-words.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Round up to the next multiple of 5](./7-kyu/round-up-to-the-next-multiple-of-5.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Shortest Word](./7-kyu/shortest-word.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Simple Fun #181: Rounding](./7-kyu/simple-fun-181-rounding.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Small enough? - Beginner](./7-kyu/small-enough-beginner.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Sort array by string length](./7-kyu/sort-array-by-string-length.md)**<br><sup>`SORTING` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
