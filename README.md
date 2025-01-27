@@ -215,6 +215,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Small enough? - Beginner](./7-kyu/small-enough-beginner.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Sort array by string length](./7-kyu/sort-array-by-string-length.md)**<br><sup>`SORTING` `ARRAYS` `FUNDAMENTALS`</sup>
 - **[Sort Numbers](./7-kyu/sort-numbers.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Sorted Union](./7-kyu/sorted-union.md)**<br><sup>`ARRAYS` `LISTS` `ALGORITHMS` `SORTING`</sup>
 - **[String ends with?](./7-kyu/string-ends-with.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Sum of odd numbers](./7-kyu/sum-of-odd-numbers.md)**<br><sup>`ARRAYS` `LISTS` `MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Sum of the first nth term of Series](./7-kyu/sum-of-the-first-nth-term-of-series.md)**<br><sup>`FUNDAMENTALS`</sup>
