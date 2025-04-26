@@ -199,6 +199,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Naughty or Nice?](./7-kyu/naughty-or-nice.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
 - **[Naughty or Nice](./7-kyu/naughty-or-nice-2.md)**<br><sup>`JSON` `FUNDAMENTALS`</sup>
 - **[Number of People in the Bus](./7-kyu/number-of-people-in-the-bus.md)**<br><sup>`FUNDAMENTALS`</sup>
+- **[Odd Not Prime](./7-kyu/odd-not-prime.md)**<br><sup>`ALGORITHMS`</sup>
 - **[Odd or Even?](./7-kyu/odd-or-even.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Ones and Zeros](./7-kyu/ones-and-zeros.md)**<br><sup>`FUNDAMENTALS` `ARRAYS`</sup>
 - **[Only one](./7-kyu/only-one.md)**<br><sup>`ALGORITHMS`</sup>
