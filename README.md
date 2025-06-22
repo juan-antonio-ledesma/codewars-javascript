@@ -252,3 +252,4 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Return Negative](./8-kyu/return-negative.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Reversed Strings](./8-kyu/reversed-strings.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Simple Comparison?](./8-kyu/simple-comparison.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
+- **[Sum of positive](./8-kyu/sum-of-positive.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
