@@ -237,9 +237,11 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 
 - **[Chuck Norris VII - True or False? (Beginner)](./8-kyu/chuck-norris-vii-true-or-false-beginner.md)**<br><sup>`FUNDAMENTALS` `ALGORITHMS`</sup>
 - **[Compare within margin](./8-kyu/compare-within-margin.md)**<br><sup>`FUNDAMENTALS` `LOGIC`</sup>
+- **[Convert a Number to a String!](./8-kyu/convert-a-number-to-a-string.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Convert a string to an array](./8-kyu/convert-a-string-to-an-array.md)**<br><sup>`ARRAYS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Convert boolean values to strings 'Yes' or 'No'.](./8-kyu/convert-boolean-values-to-strings-yes-or-no.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Even or Odd](./8-kyu/even-or-odd.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
+- **[Formatting decimal places #0](./8-kyu/formatting-decimal-places-0.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Is your period late?](./8-kyu/is-your-period-late.md)**<br><sup>`FUNDAMENTALS` `DATE TIME`</sup>
 - **[Multiplication table for number](./8-kyu/multiplication-table-for-number.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Multiply](./8-kyu/multiply.md)**<br><sup>`DEBUGGING` `FUNDAMENTALS`</sup>
@@ -253,4 +255,3 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Reversed Strings](./8-kyu/reversed-strings.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
 - **[Simple Comparison?](./8-kyu/simple-comparison.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Sum of positive](./8-kyu/sum-of-positive.md)**<br><sup>`ARRAYS` `FUNDAMENTALS`</sup>
-- **[Convert a Number to a String!](./8-kyu/convert-a-number-to-a-string.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
