@@ -241,7 +241,7 @@ JavaScript katas on Codewars are programming challenges that help you improve yo
 - **[Convert a string to an array](./8-kyu/convert-a-string-to-an-array.md)**<br><sup>`ARRAYS` `STRINGS` `FUNDAMENTALS`</sup>
 - **[Convert boolean values to strings 'Yes' or 'No'.](./8-kyu/convert-boolean-values-to-strings-yes-or-no.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Even or Odd](./8-kyu/even-or-odd.md)**<br><sup>`MATHEMATICS` `FUNDAMENTALS`</sup>
-- **[Formatting decimal places #0](./8-kyu/formatting-decimal-places-0.md)**<br><sup>`STRINGS` `FUNDAMENTALS`</sup>
+- **[Formatting decimal places #0](./8-kyu/formatting-decimal-places-0.md)**<br><sup>`FUNDAMENTALS`</sup>
 - **[Is your period late?](./8-kyu/is-your-period-late.md)**<br><sup>`FUNDAMENTALS` `DATE TIME`</sup>
 - **[Multiplication table for number](./8-kyu/multiplication-table-for-number.md)**<br><sup>`FUNDAMENTALS` `STRINGS`</sup>
 - **[Multiply](./8-kyu/multiply.md)**<br><sup>`DEBUGGING` `FUNDAMENTALS`</sup>
